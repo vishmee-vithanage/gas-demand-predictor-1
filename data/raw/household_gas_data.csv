@@ -1,0 +1,879 @@
+Area,Residence_Type,Household_Size,Primary_Cook_Age_Group,Daily_Gas_Usage_Hours,Primary_Gas_Usage,Cooking_Frequency,Cylinder_Size,Cylinder_Install_Date,Typical_Cylinder_Duration,Weather_Impact_Type,Rainy_Season_Usage,Guest_Impact,Unexpected_Runout,Notification_Preference,Preferred_Notification_Time,Trust_AI_Prediction
+Urban,Single house,5+,Working adults,2,Lunch & dinner,More than three,5kg,11/18/2025,<2 weeks,Rainy days,Lower,Very often,Rarely,Yes,3 days,No
+Rural,Single house,4,Elderly/Mixed,<1,Water heating,More than three,12.5kg,11/23/2025,2 - 4 weeks,No change,Lower,Rarely,Sometimes,Yes,3 days,Yes
+Semi-urban,Shared housing,1,Elderly/Mixed,>4,Breakfast only,Twice,Not sure,1/3/2026,>2 months,No change,Lower,Never,Sometimes,Maybe,5 days,Maybe
+Rural,Apartment,5+,Working adults,>4,Lunch & dinner,Three times,12.5kg,12/19/2025,1 - 2 months,No change,Slightly higher,Never,Rarely,No,1 week,Yes
+Semi-urban,Shared housing,4,Elderly/Mixed,>4,Full-day cooking,Once,5kg,12/29/2025,2 - 4 weeks ,Cold days,Much higher,Sometimes,Yes often,Maybe,3 days,No
+Semi-urban,Shared housing,2,Students/Young adults,4,Full-day cooking,Twice,Not sure,12/11/2025,>2 months,Cold days,Lower,Never,Rarely,Yes,5 days,Yes
+Semi-urban,Single house,4,Elderly/Mixed,<1,Home business,Twice,5kg,12/29/2025,>2 months,No change,Much higher,Rarely,Never,Maybe,3 days,Yes
+Rural,Single house,4,Elderly/Mixed,4,Home business,Twice,12.5kg,11/22/2025,2 - 4 weeks,No change,Same,Never,Never,Maybe,5 days,No
+Rural,Shared housing,5+,Working adults,4,Full-day cooking,Once,Not sure,12/4/2025,<2 weeks,Rainy days,Lower,Rarely,Rarely,Yes,3 days,No
+Rural,Shared housing,4,Students/Young adults,2,Home business,Once,5kg,11/13/2025,<2 weeks,No change,Slightly higher,Sometimes,Never,No,1 week,Maybe
+Semi-urban,Shared housing,2,Students/Young adults,>4,Full-day cooking,Once,5kg,12/23/2025,>2 months,Rainy days,Much higher,Never,Rarely,Yes,1 week,Maybe
+Semi-urban,Shared housing,4,Working adults,>4,Full-day cooking,Once,5kg,11/18/2025,1-2 months ,Rainy days,Slightly higher,Very often,Never,Yes,1 week,No
+Rural,Shared housing,1,Students/Young adults,2,Water heating,Once,5kg,12/12/2025,2 - 2 months,Cold days,Much higher,Never,Yes often,No,5 days,Maybe
+Urban,Shared housing,1,Elderly/Mixed,2,Water heating,Once,12.5kg,1/5/2026,>2 months,Cold days,Same,Rarely,Sometimes,Yes,5 days,Yes
+Urban,Shared housing,1,Working adults,>4,Breakfast only,Twice,12.5kg,1/4/2026,<2 weeks,No change,Lower,Rarely,Sometimes,No,5 days,Maybe
+Urban,Shared housing,4,Students/Young adults,2,Full-day cooking,Three times,37.5kg,1/5/2026,2 - 4 weeks,Cold days,Lower,Sometimes,Never,No,1 week,Maybe
+Rural,Apartment,2,Working adults,4,Water heating,Twice,12.5kg,12/6/2025,1-2 months ,Cold days,Lower,Rarely,Rarely,No,1 week,Maybe
+Semi-urban,Apartment,4,Students/Young adults,>4,Breakfast only,Once,5kg,12/16/2025,3 - 2 months,No change,Much higher,Never,Rarely,Maybe,5 days,No
+Semi-urban,Apartment,1,Working adults,2,Water heating,Twice,12.5kg,11/7/2025,1-2 months ,Cold days,Same,Never,Yes often,Yes,1 week,Yes
+Urban,Single house,2,Elderly/Mixed,>4,Home business,Three times,5kg,12/19/2025,2 - 4 weeks,No change,Same,Very often,Yes often,No,5 days,Maybe
+Urban,Single house,4,Elderly/Mixed,<1,Lunch & dinner,Three times,12.5kg,11/22/2025,>2 months,No change,Much higher,Never,Rarely,No,3 days,Yes
+Urban,Apartment,1,Elderly/Mixed,<1,Lunch & dinner,Three times,12.5kg,12/24/2025,4 - 2 months,No change,Same,Sometimes,Rarely,No,5 days,No
+Urban,Apartment,5+,Elderly/Mixed,>4,Water heating,Twice,5kg,1/3/2026,2 - 4 weeks,Rainy days,Same,Very often,Sometimes,Yes,3 days,Yes
+Urban,Apartment,2,Elderly/Mixed,4,Breakfast only,Once,37.5kg,12/8/2025,<2 weeks,No change,Much higher,Sometimes,Yes often,No,3 days,Yes
+Rural,Apartment,5+,Working adults,>4,Lunch & dinner,More than three,5kg,12/3/2025,2 - 4 weeks,Cold days,Lower,Rarely,Yes often,No,3 days,No
+Rural,Shared housing,2,Working adults,2,Full-day cooking,Twice,37.5kg,11/7/2025,2 - 4 weeks,Cold days,Lower,Very often,Yes often,No,5 days,Maybe
+Semi-urban,Shared housing,5+,Students/Young adults,<1,Lunch & dinner,Twice,37.5kg,11/25/2025,<2 weeks,Cold days,Lower,Never,Rarely,No,1 week,Maybe
+Urban,Shared housing,1,Elderly/Mixed,4,Home business,More than three,Not sure,12/26/2025,>2 months,Rainy days,Same,Never,Sometimes,Yes,3 days,Maybe
+Rural,Apartment,5+,Students/Young adults,>4,Full-day cooking,More than three,12.5kg,12/15/2025,1-2 months ,No change,Much higher,Sometimes,Yes often,No,1 week,Maybe
+Semi-urban,Apartment,5+,Students/Young adults,>4,Breakfast only,Once,37.5kg,12/12/2025,<2 weeks,Rainy days,Same,Sometimes,Never,No,3 days,Yes
+Urban,Apartment,2,Students/Young adults,2,Breakfast only,More than three,Not sure,12/11/2025,2 - 4 weeks,No change,Slightly higher,Very often,Sometimes,Maybe,5 days,Yes
+Urban,Apartment,5+,Working adults,4,Full-day cooking,Three times,37.5kg,12/3/2025,<2 weeks,No change,Much higher,Rarely,Sometimes,Yes,1 week,Maybe
+Urban,Shared housing,4,Students/Young adults,<1,Full-day cooking,Three times,Not sure,12/16/2025,>2 months,Cold days,Same,Rarely,Never,Maybe,5 days,Maybe
+Urban,Shared housing,4,Elderly/Mixed,>4,Full-day cooking,More than three,5kg,12/1/2025,<2 weeks,No change,Lower,Rarely,Rarely,Yes,5 days,No
+Rural,Single house,4,Students/Young adults,4,Full-day cooking,Three times,37.5kg,12/21/2025,5 - 2 months,Cold days,Much higher,Very often,Sometimes,Maybe,5 days,No
+Semi-urban,Apartment,4,Elderly/Mixed,4,Breakfast only,Twice,5kg,11/10/2025,2 - 2 months,Rainy days,Slightly higher,Very often,Sometimes,No,3 days,No
+Urban,Apartment,2,Working adults,4,Full-day cooking,Once,37.5kg,12/18/2025,<2 weeks,Cold days,Same,Sometimes,Yes often,Maybe,1 week,Maybe
+Semi-urban,Single house,4,Students/Young adults,<1,Full-day cooking,Once,Not sure,12/6/2025,2 - 4 weeks,Cold days,Same,Never,Rarely,No,5 days,Maybe
+Semi-urban,Shared housing,4,Elderly/Mixed,4,Home business,Once,Not sure,12/20/2025,2 - 4 weeks,Rainy days,Slightly higher,Very often,Never,No,5 days,Maybe
+Rural,Shared housing,2,Students/Young adults,2,Breakfast only,Three times,5kg,11/19/2025,1-2 months ,Rainy days,Lower,Sometimes,Yes often,No,1 week,Maybe
+Semi-urban,Shared housing,2,Working adults,2,Water heating,Once,12.5kg,11/14/2025,<2 weeks,Rainy days,Slightly higher,Never,Yes often,Yes,5 days,Maybe
+Rural,Single house,5+,Elderly/Mixed,>4,Breakfast only,Twice,12.5kg,12/3/2025,>2 months,Cold days,Lower,Rarely,Rarely,Yes,3 days,Yes
+Urban,Apartment,1,Elderly/Mixed,<1,Full-day cooking,Three times,12.5kg,1/1/2026,2 - 4 weeks,No change,Same,Sometimes,Rarely,Yes,5 days,No
+Rural,Shared housing,1,Elderly/Mixed,>4,Water heating,Three times,5kg,12/7/2025,<2 weeks,No change,Slightly higher,Sometimes,Never,No,3 days,No
+Rural,Apartment,1,Working adults,2,Full-day cooking,Twice,5kg,11/12/2025,<2 weeks,Cold days,Same,Never,Rarely,No,3 days,Yes
+Urban,Single house,1,Working adults,4,Water heating,Twice,5kg,11/7/2025,3 - 2 months,Cold days,Same,Never,Rarely,Maybe,3 days,Yes
+Semi-urban,Single house,5+,Elderly/Mixed,>4,Breakfast only,Twice,12.5kg,11/26/2025,<2 weeks,No change,Slightly higher,Never,Rarely,No,1 week,No
+Urban,Single house,1,Elderly/Mixed,>4,Lunch & dinner,Once,5kg,12/10/2025,1-2 months ,Cold days,Lower,Never,Rarely,Yes,3 days,Maybe
+Semi-urban,Single house,4,Students/Young adults,<1,Lunch & dinner,Twice,5kg,12/14/2025,<2 weeks,Rainy days,Lower,Never,Rarely,No,5 days,No
+Rural,Apartment,5+,Students/Young adults,2,Breakfast only,Twice,12.5kg,11/21/2025,2 - 4 weeks,Cold days,Lower,Very often,Rarely,Yes,5 days,No
+Rural,Apartment,2,Working adults,<1,Breakfast only,Twice,37.5kg,11/28/2025,4 - 2 months,No change,Slightly higher,Very often,Sometimes,Maybe,3 days,Yes
+Urban,Shared housing,5+,Elderly/Mixed,>4,Lunch & dinner,Three times,Not sure,11/20/2025,<2 weeks,No change,Much higher,Sometimes,Sometimes,Yes,3 days,Yes
+Rural,Apartment,5+,Elderly/Mixed,>4,Home business,Three times,Not sure,12/25/2025,<2 weeks,Cold days,Same,Very often,Never,Yes,3 days,No
+Urban,Apartment,4,Working adults,>4,Home business,Twice,Not sure,1/1/2026,1-2 months ,Rainy days,Slightly higher,Sometimes,Never,No,1 week,Maybe
+Rural,Single house,2,Students/Young adults,<1,Water heating,Twice,12.5kg,12/11/2025,2 - 4 weeks,Cold days,Lower,Rarely,Sometimes,No,1 week,Yes
+Rural,Shared housing,1,Working adults,<1,Breakfast only,Three times,12.5kg,1/5/2026,2 - 4 weeks,Cold days,Slightly higher,Sometimes,Rarely,Maybe,3 days,Yes
+Urban,Apartment,1,Elderly/Mixed,2,Breakfast only,Three times,12.5kg,12/22/2025,<2 weeks,Rainy days,Lower,Sometimes,Sometimes,Yes,3 days,Maybe
+Urban,Single house,1,Students/Young adults,>4,Home business,More than three,5kg,12/7/2025,2 - 4 weeks,Cold days,Slightly higher,Rarely,Sometimes,No,1 week,Yes
+Rural,Apartment,4,Students/Young adults,4,Home business,Three times,Not sure,1/4/2026,2 - 2 months,No change,Much higher,Sometimes,Rarely,Maybe,1 week,Maybe
+Rural,Shared housing,5+,Students/Young adults,2,Water heating,Twice,Not sure,12/10/2025,1-2 months ,No change,Same,Sometimes,Sometimes,No,5 days,Maybe
+Rural,Shared housing,2,Students/Young adults,2,Home business,Twice,Not sure,12/3/2025,2 - 4 weeks,No change,Slightly higher,Very often,Never,No,5 days,Yes
+Semi-urban,Shared housing,2,Working adults,>4,Full-day cooking,Three times,37.5kg,11/30/2025,>2 months,Rainy days,Slightly higher,Rarely,Sometimes,Yes,5 days,No
+Rural,Apartment,5+,Elderly/Mixed,>4,Home business,Once,37.5kg,11/19/2025,3 - 2 months,Cold days,Much higher,Rarely,Yes often,Yes,3 days,Yes
+Urban,Shared housing,4,Elderly/Mixed,>4,Full-day cooking,Once,12.5kg,12/5/2025,2 - 4 weeks,Cold days,Same,Very often,Sometimes,No,1 week,Maybe
+Rural,Single house,1,Students/Young adults,2,Lunch & dinner,Twice,5kg,11/22/2025,2 - 4 weeks,Rainy days,Lower,Very often,Sometimes,No,3 days,Maybe
+Urban,Apartment,4,Working adults,4,Water heating,Once,Not sure,12/9/2025,1-2 months ,No change,Slightly higher,Very often,Yes often,Yes,3 days,Maybe
+Urban,Single house,5+,Students/Young adults,4,Full-day cooking,More than three,12.5kg,12/18/2025,4 - 2 months,No change,Same,Rarely,Yes often,Yes,1 week,Yes
+Semi-urban,Apartment,4,Students/Young adults,>4,Home business,Once,5kg,11/14/2025,<2 weeks,No change,Same,Never,Yes often,Yes,5 days,Yes
+Semi-urban,Single house,4,Elderly/Mixed,<1,Lunch & dinner,Three times,37.5kg,11/22/2025,2 - 4 weeks,No change,Lower,Rarely,Never,No,1 week,No
+Rural,Single house,5+,Students/Young adults,>4,Water heating,Twice,Not sure,12/31/2025,1-2 months ,Rainy days,Much higher,Rarely,Yes often,Yes,1 week,Yes
+Rural,Shared housing,2,Elderly/Mixed,<1,Full-day cooking,More than three,5kg,12/3/2025,>2 months,Cold days,Lower,Never,Sometimes,No,3 days,Maybe
+Urban,Shared housing,5+,Students/Young adults,<1,Water heating,Twice,12.5kg,12/16/2025,5 - 2 months,No change,Same,Very often,Sometimes,No,3 days,No
+Rural,Single house,2,Students/Young adults,>4,Water heating,Three times,5kg,12/4/2025,>2 months,Cold days,Much higher,Sometimes,Never,No,1 week,Maybe
+Rural,Single house,2,Students/Young adults,<1,Full-day cooking,Once,Not sure,12/30/2025,>2 months,No change,Much higher,Never,Never,No,5 days,No
+Rural,Apartment,2,Working adults,2,Full-day cooking,Twice,12.5kg,12/19/2025,2 - 4 weeks,No change,Lower,Very often,Yes often,No,1 week,Yes
+Urban,Apartment,2,Working adults,4,Lunch & dinner,Once,37.5kg,12/25/2025,1-2 months ,Rainy days,Lower,Rarely,Never,No,5 days,No
+Semi-urban,Apartment,2,Elderly/Mixed,4,Home business,Once,5kg,11/8/2025,>2 months,Rainy days,Lower,Rarely,Never,Yes,5 days,Yes
+Semi-urban,Apartment,4,Students/Young adults,>4,Water heating,Twice,5kg,12/13/2025,2 - 4 weeks,No change,Much higher,Sometimes,Sometimes,Maybe,3 days,Yes
+Rural,Single house,1,Elderly/Mixed,4,Water heating,Once,12.5kg,12/3/2025,2 - 4 weeks,Rainy days,Much higher,Very often,Sometimes,Yes,1 week,No
+Semi-urban,Apartment,1,Working adults,2,Home business,Once,37.5kg,11/26/2025,>2 months,No change,Slightly higher,Very often,Sometimes,Maybe,3 days,Maybe
+Urban,Apartment,4,Students/Young adults,<1,Water heating,Three times,5kg,11/20/2025,<2 weeks,Rainy days,Same,Sometimes,Never,Yes,1 week,Maybe
+Rural,Apartment,4,Working adults,4,Lunch & dinner,More than three,Not sure,12/13/2025,1 - 2 months,Rainy days,Same,Sometimes,Rarely,No,3 days,Yes
+Urban,Apartment,1,Elderly/Mixed,>4,Breakfast only,Once,5kg,11/18/2025,4 - 2 months,No change,Much higher,Rarely,Never,Maybe,3 days,No
+Urban,Apartment,5+,Working adults,4,Water heating,Once,5kg,12/4/2025,1-2 months ,Rainy days,Much higher,Never,Never,No,5 days,No
+Semi-urban,Apartment,1,Elderly/Mixed,<1,Lunch & dinner,More than three,12.5kg,12/15/2025,<2 weeks,Cold days,Lower,Sometimes,Yes often,Yes,3 days,Maybe
+Semi-urban,Shared housing,1,Elderly/Mixed,4,Full-day cooking,More than three,5kg,12/11/2025,<2 weeks,Rainy days,Slightly higher,Sometimes,Rarely,Maybe,3 days,Maybe
+Semi-urban,Single house,5+,Working adults,>4,Water heating,Three times,5kg,12/13/2025,<2 weeks,Cold days,Lower,Sometimes,Never,Maybe,5 days,No
+Urban,Shared housing,4,Students/Young adults,2,Breakfast only,Twice,12.5kg,11/8/2025,2 - 4 weeks,Rainy days,Slightly higher,Very often,Yes often,Maybe,5 days,No
+Rural,Shared housing,2,Elderly/Mixed,<1,Water heating,Twice,5kg,12/25/2025,<2 weeks,No change,Slightly higher,Rarely,Yes often,No,5 days,Maybe
+Urban,Single house,1,Elderly/Mixed,2,Breakfast only,Three times,5kg,1/2/2026,2 - 4 weeks,Rainy days,Slightly higher,Rarely,Yes often,No,5 days,No
+Urban,Apartment,5+,Students/Young adults,<1,Home business,More than three,37.5kg,12/24/2025,>2 months,Cold days,Much higher,Very often,Sometimes,No,3 days,Maybe
+Urban,Apartment,5+,Students/Young adults,2,Water heating,More than three,Not sure,11/30/2025,<2 weeks,Rainy days,Lower,Very often,Yes often,Maybe,1 week,Maybe
+Semi-urban,Single house,4,Working adults,2,Full-day cooking,Once,5kg,11/19/2025,2 - 4 weeks,Rainy days,Slightly higher,Never,Rarely,Yes,1 week,Maybe
+Urban,Single house,4,Elderly/Mixed,4,Breakfast only,Three times,12.5kg,12/16/2025,2 - 4 weeks,No change,Lower,Never,Rarely,Yes,3 days,Maybe
+Rural,Shared housing,5+,Working adults,4,Home business,More than three,Not sure,11/8/2025,>2 months,No change,Slightly higher,Very often,Yes often,Yes,1 week,No
+Rural,Apartment,1,Working adults,4,Lunch & dinner,Three times,Not sure,12/30/2025,<2 weeks,No change,Lower,Never,Rarely,Maybe,1 week,Maybe
+Urban,Apartment,4,Elderly/Mixed,<1,Lunch & dinner,More than three,Not sure,11/8/2025,>2 months,Cold days,Much higher,Rarely,Yes often,Maybe,5 days,No
+Rural,Single house,4,Elderly/Mixed,>4,Lunch & dinner,Once,Not sure,12/5/2025,2 - 4 weeks,Cold days,Same,Sometimes,Sometimes,No,3 days,Yes
+Semi-urban,Single house,5+,Elderly/Mixed,2,Water heating,Twice,5kg,12/28/2025,>2 months,Rainy days,Same,Very often,Rarely,Yes,3 days,No
+Rural,Apartment,5+,Elderly/Mixed,<1,Lunch & dinner,More than three,37.5kg,1/1/2026,<2 weeks,Cold days,Much higher,Very often,Sometimes,No,5 days,No
+Rural,Single house,1,Students/Young adults,>4,Full-day cooking,More than three,12.5kg,12/17/2025,2 - 4 weeks,Rainy days,Lower,Never,Yes often,No,1 week,No
+Rural,Apartment,4,Elderly/Mixed,4,Lunch & dinner,More than three,Not sure,1/3/2026,<2 weeks,No change,Same,Sometimes,Rarely,No,5 days,No
+Rural,Single house,1,Working adults,4,Water heating,Twice,37.5kg,11/24/2025,2 - 4 weeks,No change,Much higher,Very often,Rarely,Maybe,1 week,No
+Semi-urban,Shared housing,1,Elderly/Mixed,2,Water heating,Once,5kg,12/27/2025,2 - 2 months,Cold days,Lower,Rarely,Never,No,3 days,No
+Urban,Single house,2,Elderly/Mixed,>4,Breakfast only,More than three,Not sure,12/9/2025,1-2 months ,Cold days,Slightly higher,Very often,Yes often,No,5 days,Yes
+Semi-urban,Apartment,2,Students/Young adults,4,Full-day cooking,More than three,Not sure,11/25/2025,<2 weeks,Rainy days,Lower,Never,Never,Yes,5 days,No
+Semi-urban,Shared housing,1,Working adults,>4,Breakfast only,More than three,5kg,11/10/2025,<2 weeks,No change,Much higher,Rarely,Rarely,No,5 days,No
+Semi-urban,Apartment,2,Working adults,<1,Water heating,Once,12.5kg,11/10/2025,2 - 4 weeks,No change,Much higher,Rarely,Never,Maybe,3 days,No
+Rural,Single house,4,Working adults,2,Full-day cooking,More than three,12.5kg,12/8/2025,2 - 4 weeks,Cold days,Lower,Never,Sometimes,Maybe,5 days,Maybe
+Semi-urban,Apartment,2,Elderly/Mixed,<1,Water heating,Three times,5kg,12/2/2025,2 - 4 weeks,No change,Much higher,Sometimes,Never,No,5 days,No
+Semi-urban,Single house,4,Elderly/Mixed,4,Lunch & dinner,Three times,Not sure,12/23/2025,<2 weeks,No change,Lower,Rarely,Rarely,Yes,3 days,No
+Rural,Shared housing,5+,Elderly/Mixed,2,Home business,Once,5kg,12/5/2025,<2 weeks,Rainy days,Slightly higher,Sometimes,Yes often,No,5 days,Maybe
+Urban,Shared housing,5+,Elderly/Mixed,>4,Lunch & dinner,More than three,5kg,1/5/2026,>2 months,Rainy days,Slightly higher,Rarely,Never,Maybe,3 days,Yes
+Urban,Shared housing,2,Elderly/Mixed,2,Breakfast only,Twice,12.5kg,12/7/2025,2 - 4 weeks,No change,Much higher,Sometimes,Never,Yes,5 days,Yes
+Rural,Apartment,4,Elderly/Mixed,>4,Lunch & dinner,Once,5kg,12/4/2025,3 - 2 months,Cold days,Lower,Very often,Rarely,Yes,1 week,Maybe
+Rural,Single house,1,Elderly/Mixed,<1,Full-day cooking,Three times,12.5kg,11/11/2025,1-2 months ,Cold days,Much higher,Never,Never,No,3 days,Yes
+Rural,Shared housing,5+,Working adults,4,Home business,More than three,5kg,11/11/2025,<2 weeks,No change,Lower,Rarely,Never,Yes,3 days,No
+Rural,Apartment,4,Students/Young adults,<1,Breakfast only,Once,5kg,11/13/2025,2 - 4 weeks,No change,Lower,Sometimes,Never,Maybe,3 days,Maybe
+Rural,Apartment,1,Students/Young adults,<1,Home business,Once,5kg,11/18/2025,<2 weeks,Cold days,Much higher,Sometimes,Never,Yes,3 days,Maybe
+Urban,Apartment,2,Working adults,2,Home business,Once,37.5kg,11/21/2025,<2 weeks,Cold days,Slightly higher,Rarely,Never,Maybe,5 days,No
+Rural,Single house,5+,Working adults,<1,Home business,Three times,12.5kg,11/16/2025,>2 months,Cold days,Much higher,Very often,Yes often,Yes,1 week,Yes
+Semi-urban,Shared housing,2,Elderly/Mixed,2,Breakfast only,More than three,5kg,11/13/2025,4 - 2 months,No change,Much higher,Sometimes,Yes often,Yes,3 days,Maybe
+Rural,Single house,5+,Students/Young adults,2,Water heating,Once,Not sure,12/18/2025,2 - 4 weeks,Rainy days,Much higher,Very often,Sometimes,Maybe,3 days,No
+Rural,Apartment,5+,Elderly/Mixed,2,Full-day cooking,Twice,12.5kg,12/8/2025,>2 months,No change,Slightly higher,Never,Never,Maybe,5 days,Maybe
+Semi-urban,Single house,4,Working adults,4,Full-day cooking,Once,5kg,12/4/2025,1-2 months ,Cold days,Slightly higher,Sometimes,Sometimes,Yes,3 days,Maybe
+Urban,Apartment,1,Working adults,<1,Water heating,Once,Not sure,11/10/2025,2 - 4 weeks,Cold days,Much higher,Rarely,Sometimes,No,3 days,Yes
+Rural,Apartment,4,Elderly/Mixed,4,Breakfast only,Three times,5kg,12/9/2025,5 - 2 months,Cold days,Much higher,Rarely,Yes often,Maybe,1 week,Yes
+Rural,Single house,5+,Working adults,<1,Water heating,Twice,5kg,11/12/2025,<2 weeks,Cold days,Same,Rarely,Yes often,No,1 week,Maybe
+Rural,Apartment,1,Elderly/Mixed,2,Water heating,Three times,12.5kg,11/20/2025,>2 months,No change,Lower,Never,Rarely,No,1 week,Yes
+Rural,Single house,2,Students/Young adults,2,Breakfast only,More than three,5kg,11/19/2025,2 - 4 weeks,No change,Same,Rarely,Never,Maybe,3 days,No
+Urban,Shared housing,2,Students/Young adults,2,Water heating,Twice,37.5kg,1/4/2026,2 - 4 weeks,No change,Lower,Sometimes,Sometimes,Maybe,3 days,No
+Urban,Single house,2,Students/Young adults,4,Water heating,Once,12.5kg,12/10/2025,<2 weeks,Cold days,Lower,Sometimes,Sometimes,Yes,1 week,Yes
+Rural,Shared housing,5+,Working adults,4,Breakfast only,Twice,5kg,11/18/2025,<2 weeks,No change,Slightly higher,Rarely,Rarely,No,1 week,No
+Urban,Single house,1,Working adults,<1,Lunch & dinner,Three times,37.5kg,12/18/2025,2 - 4 weeks,Rainy days,Much higher,Never,Never,No,5 days,Yes
+Rural,Shared housing,2,Working adults,2,Home business,Twice,5kg,12/9/2025,2 - 4 weeks,No change,Much higher,Sometimes,Never,Maybe,1 week,Maybe
+Semi-urban,Shared housing,2,Working adults,<1,Home business,Twice,12.5kg,12/1/2025,2 - 4 weeks,Rainy days,Much higher,Rarely,Never,No,5 days,Maybe
+Rural,Shared housing,4,Working adults,>4,Water heating,Three times,12.5kg,12/28/2025,2 - 4 weeks,No change,Slightly higher,Rarely,Never,Maybe,1 week,No
+Semi-urban,Single house,5+,Working adults,4,Lunch & dinner,Three times,37.5kg,12/25/2025,>2 months,Cold days,Same,Never,Sometimes,No,5 days,No
+Urban,Single house,2,Students/Young adults,<1,Water heating,Twice,Not sure,12/12/2025,1-2 months ,Rainy days,Lower,Very often,Never,No,3 days,Maybe
+Rural,Apartment,5+,Students/Young adults,>4,Full-day cooking,Twice,12.5kg,11/18/2025,2 - 4 weeks,Rainy days,Same,Sometimes,Sometimes,Yes,3 days,Yes
+Urban,Apartment,1,Working adults,<1,Water heating,Twice,37.5kg,12/4/2025,>2 months,Rainy days,Much higher,Never,Never,Yes,1 week,Maybe
+Urban,Shared housing,5+,Students/Young adults,2,Breakfast only,Three times,5kg,12/18/2025,<2 weeks,No change,Same,Sometimes,Sometimes,Maybe,1 week,Maybe
+Rural,Single house,4,Students/Young adults,4,Lunch & dinner,More than three,12.5kg,12/22/2025,<2 weeks,Cold days,Lower,Sometimes,Yes often,Maybe,1 week,Maybe
+Semi-urban,Single house,5+,Elderly/Mixed,4,Lunch & dinner,Three times,5kg,12/9/2025,2 - 4 weeks,Cold days,Lower,Never,Rarely,Yes,5 days,No
+Urban,Apartment,5+,Working adults,>4,Full-day cooking,More than three,Not sure,12/7/2025,>2 months,Rainy days,Slightly higher,Rarely,Yes often,Maybe,1 week,Maybe
+Rural,Single house,4,Elderly/Mixed,>4,Lunch & dinner,Three times,5kg,12/29/2025,2 - 4 weeks,No change,Slightly higher,Sometimes,Rarely,Maybe,1 week,Yes
+Semi-urban,Apartment,4,Working adults,>4,Full-day cooking,Three times,Not sure,12/27/2025,2 - 4 weeks,No change,Same,Sometimes,Sometimes,Maybe,1 week,Maybe
+Semi-urban,Apartment,1,Working adults,<1,Lunch & dinner,More than three,12.5kg,12/16/2025,>2 months,Cold days,Same,Sometimes,Never,Yes,5 days,Yes
+Semi-urban,Apartment,4,Working adults,>4,Breakfast only,Three times,12.5kg,12/26/2025,>2 months,No change,Slightly higher,Rarely,Rarely,Maybe,3 days,Maybe
+Semi-urban,Apartment,4,Elderly/Mixed,2,Full-day cooking,Three times,5kg,12/17/2025,1 - 2 months,Cold days,Slightly higher,Never,Never,Yes,1 week,No
+Semi-urban,Shared housing,4,Students/Young adults,4,Breakfast only,More than three,5kg,12/1/2025,4 - 2 months,Cold days,Lower,Sometimes,Yes often,Maybe,3 days,Yes
+Urban,Shared housing,2,Working adults,2,Water heating,Once,37.5kg,11/12/2025,<2 weeks,Rainy days,Slightly higher,Rarely,Yes often,No,5 days,Yes
+Semi-urban,Apartment,4,Working adults,2,Full-day cooking,Twice,Not sure,12/26/2025,<2 weeks,No change,Slightly higher,Rarely,Yes often,Maybe,1 week,No
+Semi-urban,Shared housing,2,Elderly/Mixed,<1,Home business,Once,5kg,12/9/2025,<2 weeks,Rainy days,Slightly higher,Very often,Sometimes,Maybe,1 week,Yes
+Semi-urban,Single house,4,Working adults,2,Full-day cooking,Three times,37.5kg,12/17/2025,1-2 months ,Rainy days,Lower,Rarely,Sometimes,Maybe,5 days,Yes
+Urban,Apartment,2,Elderly/Mixed,2,Water heating,Twice,Not sure,11/11/2025,<2 weeks,No change,Much higher,Never,Yes often,Yes,5 days,Maybe
+Semi-urban,Single house,4,Working adults,>4,Home business,Once,Not sure,12/15/2025,>2 months,Cold days,Same,Sometimes,Never,No,5 days,Maybe
+Semi-urban,Shared housing,1,Elderly/Mixed,2,Full-day cooking,Once,12.5kg,11/17/2025,>2 months,No change,Much higher,Never,Never,No,3 days,No
+Urban,Apartment,5+,Working adults,>4,Full-day cooking,Three times,12.5kg,11/9/2025,2 - 4 weeks,Rainy days,Same,Never,Sometimes,Yes,5 days,Maybe
+Semi-urban,Shared housing,4,Elderly/Mixed,>4,Breakfast only,More than three,12.5kg,12/29/2025,>2 months,Cold days,Much higher,Very often,Rarely,No,3 days,No
+Semi-urban,Shared housing,1,Elderly/Mixed,2,Water heating,Once,5kg,12/21/2025,2 - 4 weeks,Rainy days,Slightly higher,Never,Rarely,Yes,1 week,No
+Semi-urban,Shared housing,5+,Working adults,4,Lunch & dinner,Once,Not sure,12/2/2025,2 - 4 weeks,Cold days,Much higher,Sometimes,Yes often,Yes,5 days,No
+Rural,Shared housing,1,Elderly/Mixed,>4,Lunch & dinner,Once,5kg,12/31/2025,>2 months,Rainy days,Slightly higher,Very often,Sometimes,No,5 days,Yes
+Semi-urban,Single house,1,Students/Young adults,4,Water heating,Three times,37.5kg,11/10/2025,4 - 2 months,Rainy days,Much higher,Rarely,Rarely,Maybe,5 days,Maybe
+Rural,Single house,2,Working adults,4,Lunch & dinner,Twice,Not sure,12/6/2025,<2 weeks,Rainy days,Much higher,Sometimes,Yes often,No,3 days,Maybe
+Rural,Apartment,4,Working adults,<1,Lunch & dinner,Three times,5kg,11/17/2025,<2 weeks,Cold days,Slightly higher,Sometimes,Never,Maybe,3 days,No
+Rural,Apartment,2,Working adults,<1,Breakfast only,Twice,12.5kg,11/25/2025,2 - 4 weeks,No change,Slightly higher,Rarely,Yes often,Yes,5 days,No
+Semi-urban,Single house,5+,Elderly/Mixed,2,Home business,Three times,12.5kg,12/24/2025,2 - 2 months,Rainy days,Same,Rarely,Never,No,5 days,Yes
+Urban,Apartment,2,Working adults,<1,Full-day cooking,More than three,Not sure,1/2/2026,>2 months,Cold days,Much higher,Sometimes,Yes often,Maybe,1 week,No
+Semi-urban,Apartment,1,Elderly/Mixed,>4,Full-day cooking,Twice,37.5kg,12/16/2025,2 - 4 weeks,Rainy days,Lower,Sometimes,Rarely,Yes,3 days,Maybe
+Semi-urban,Apartment,2,Elderly/Mixed,>4,Lunch & dinner,More than three,5kg,12/21/2025,1-2 months ,No change,Lower,Sometimes,Yes often,Maybe,1 week,Yes
+Urban,Apartment,4,Working adults,<1,Lunch & dinner,Once,12.5kg,12/7/2025,2 - 4 weeks,No change,Slightly higher,Never,Rarely,Yes,3 days,Maybe
+Urban,Single house,2,Students/Young adults,<1,Breakfast only,Twice,12.5kg,12/11/2025,2 - 4 weeks,Rainy days,Much higher,Rarely,Sometimes,No,5 days,Maybe
+Urban,Single house,1,Elderly/Mixed,<1,Water heating,Three times,37.5kg,12/8/2025,2 - 4 weeks,No change,Slightly higher,Sometimes,Rarely,Maybe,3 days,Maybe
+Semi-urban,Single house,1,Students/Young adults,2,Full-day cooking,Once,5kg,12/8/2025,>2 months,Rainy days,Slightly higher,Sometimes,Never,Yes,3 days,Maybe
+Semi-urban,Apartment,5+,Working adults,2,Water heating,Twice,37.5kg,12/30/2025,2 - 4 weeks,Rainy days,Lower,Sometimes,Never,Maybe,5 days,Yes
+Urban,Single house,2,Working adults,4,Breakfast only,More than three,37.5kg,12/9/2025,3 - 2 months,Rainy days,Much higher,Sometimes,Yes often,No,1 week,Yes
+Urban,Apartment,5+,Students/Young adults,<1,Water heating,Twice,Not sure,11/26/2025,1-2 months ,No change,Same,Very often,Yes often,Yes,1 week,Yes
+Urban,Single house,1,Elderly/Mixed,>4,Lunch & dinner,Twice,12.5kg,12/24/2025,>2 months,No change,Same,Never,Yes often,Maybe,3 days,Yes
+Rural,Single house,2,Students/Young adults,>4,Full-day cooking,More than three,5kg,12/9/2025,2 - 4 weeks,Rainy days,Slightly higher,Rarely,Yes often,No,5 days,Yes
+Rural,Single house,1,Students/Young adults,2,Breakfast only,Once,Not sure,11/12/2025,2 - 4 weeks,No change,Much higher,Sometimes,Never,Yes,5 days,Yes
+Rural,Single house,4,Working adults,2,Full-day cooking,Three times,37.5kg,11/19/2025,2 - 4 weeks,Rainy days,Lower,Rarely,Sometimes,Yes,1 week,Yes
+Semi-urban,Apartment,4,Students/Young adults,4,Water heating,Twice,12.5kg,11/26/2025,2 - 4 weeks,No change,Lower,Very often,Rarely,Maybe,1 week,No
+Semi-urban,Shared housing,5+,Students/Young adults,<1,Home business,More than three,37.5kg,12/28/2025,4 - 2 months,Cold days,Much higher,Very often,Yes often,No,1 week,Yes
+Semi-urban,Single house,1,Students/Young adults,<1,Water heating,Three times,5kg,12/11/2025,<2 weeks,Rainy days,Much higher,Never,Yes often,Maybe,5 days,No
+Semi-urban,Shared housing,1,Elderly/Mixed,4,Home business,Twice,5kg,1/1/2026,2 - 4 weeks,Rainy days,Slightly higher,Sometimes,Never,Maybe,1 week,Maybe
+Semi-urban,Single house,4,Students/Young adults,2,Full-day cooking,More than three,37.5kg,11/9/2025,<2 weeks,Cold days,Slightly higher,Sometimes,Yes often,No,1 week,Yes
+Semi-urban,Apartment,5+,Working adults,4,Water heating,Twice,12.5kg,12/4/2025,2 - 4 weeks,Rainy days,Lower,Rarely,Never,Yes,3 days,Yes
+Rural,Apartment,1,Elderly/Mixed,>4,Full-day cooking,More than three,12.5kg,11/19/2025,1-2 months ,Rainy days,Slightly higher,Never,Never,Yes,5 days,Maybe
+Semi-urban,Apartment,4,Students/Young adults,<1,Lunch & dinner,Once,5kg,1/5/2026,2 - 4 weeks,No change,Lower,Sometimes,Never,Maybe,5 days,No
+Rural,Shared housing,5+,Elderly/Mixed,>4,Home business,Three times,12.5kg,12/10/2025,2 - 4 weeks,No change,Same,Very often,Never,Yes,1 week,Yes
+Semi-urban,Shared housing,1,Students/Young adults,>4,Breakfast only,Three times,5kg,11/22/2025,5 - 2 months,Rainy days,Same,Never,Rarely,Yes,1 week,Yes
+Urban,Shared housing,5+,Elderly/Mixed,<1,Home business,More than three,Not sure,11/17/2025,>2 months,Rainy days,Same,Rarely,Sometimes,Maybe,3 days,No
+Rural,Apartment,5+,Elderly/Mixed,4,Breakfast only,Three times,12.5kg,11/29/2025,2 - 4 weeks,Rainy days,Much higher,Rarely,Rarely,Maybe,3 days,Maybe
+Semi-urban,Apartment,5+,Working adults,2,Full-day cooking,Twice,37.5kg,12/6/2025,<2 weeks,No change,Same,Sometimes,Yes often,Yes,1 week,No
+Rural,Shared housing,1,Elderly/Mixed,>4,Full-day cooking,Three times,5kg,12/20/2025,1-2 months ,Rainy days,Same,Sometimes,Never,Maybe,1 week,Yes
+Rural,Shared housing,2,Students/Young adults,4,Home business,More than three,5kg,12/8/2025,1 - 2 months,No change,Much higher,Never,Sometimes,No,5 days,No
+Rural,Single house,5+,Elderly/Mixed,>4,Home business,Three times,Not sure,1/1/2026,<2 weeks,No change,Much higher,Very often,Rarely,No,1 week,Maybe
+Semi-urban,Single house,2,Students/Young adults,>4,Water heating,More than three,37.5kg,11/21/2025,4 - 2 months,Cold days,Slightly higher,Never,Never,No,1 week,Maybe
+Rural,Single house,4,Elderly/Mixed,4,Lunch & dinner,Three times,5kg,12/17/2025,2 - 4 weeks,Cold days,Lower,Never,Sometimes,Maybe,5 days,Maybe
+Semi-urban,Apartment,5+,Working adults,4,Breakfast only,Three times,37.5kg,12/24/2025,<2 weeks,Cold days,Lower,Never,Never,Yes,1 week,No
+Semi-urban,Single house,4,Students/Young adults,2,Water heating,Once,Not sure,11/24/2025,1-2 months ,Rainy days,Much higher,Never,Yes often,Maybe,1 week,Yes
+Semi-urban,Single house,1,Working adults,4,Lunch & dinner,Once,5kg,11/16/2025,2 - 4 weeks,Cold days,Lower,Very often,Rarely,Maybe,5 days,No
+Semi-urban,Single house,4,Elderly/Mixed,>4,Full-day cooking,Twice,12.5kg,11/16/2025,2 - 4 weeks,Rainy days,Slightly higher,Rarely,Never,Yes,3 days,Maybe
+Urban,Single house,5+,Working adults,<1,Water heating,Three times,5kg,12/13/2025,<2 weeks,Rainy days,Same,Never,Never,Yes,5 days,No
+Rural,Apartment,1,Students/Young adults,<1,Full-day cooking,Twice,37.5kg,11/22/2025,>2 months,No change,Same,Very often,Rarely,No,1 week,Maybe
+Semi-urban,Apartment,2,Elderly/Mixed,<1,Breakfast only,Once,12.5kg,11/26/2025,<2 weeks,Rainy days,Slightly higher,Rarely,Rarely,No,5 days,Yes
+Urban,Single house,1,Students/Young adults,2,Breakfast only,Once,Not sure,12/11/2025,<2 weeks,No change,Lower,Sometimes,Yes often,Yes,1 week,Maybe
+Semi-urban,Apartment,4,Elderly/Mixed,<1,Lunch & dinner,Three times,37.5kg,11/12/2025,<2 weeks,Cold days,Lower,Never,Yes often,No,5 days,Maybe
+Urban,Shared housing,2,Students/Young adults,2,Full-day cooking,Three times,5kg,12/6/2025,<2 weeks,Rainy days,Much higher,Very often,Never,Yes,5 days,Maybe
+Semi-urban,Shared housing,1,Students/Young adults,4,Breakfast only,Twice,12.5kg,11/26/2025,<2 weeks,Rainy days,Same,Very often,Yes often,Yes,5 days,Yes
+Semi-urban,Shared housing,1,Working adults,4,Lunch & dinner,Three times,12.5kg,11/26/2025,>2 months,Rainy days,Lower,Rarely,Rarely,No,1 week,Maybe
+Urban,Shared housing,4,Students/Young adults,>4,Water heating,Twice,5kg,12/9/2025,<2 weeks,No change,Same,Rarely,Yes often,Maybe,5 days,Yes
+Semi-urban,Shared housing,2,Elderly/Mixed,4,Water heating,More than three,12.5kg,12/8/2025,2 - 4 weeks,No change,Much higher,Sometimes,Sometimes,Maybe,3 days,Maybe
+Rural,Apartment,2,Students/Young adults,2,Full-day cooking,More than three,12.5kg,11/13/2025,<2 weeks,Cold days,Lower,Never,Rarely,No,3 days,Maybe
+Rural,Single house,1,Working adults,>4,Breakfast only,More than three,5kg,11/24/2025,2 - 2 months,Rainy days,Lower,Never,Rarely,Yes,5 days,Maybe
+Rural,Single house,4,Working adults,4,Lunch & dinner,Once,37.5kg,11/28/2025,<2 weeks,Rainy days,Same,Never,Yes often,Maybe,3 days,No
+Urban,Apartment,5+,Elderly/Mixed,>4,Breakfast only,Twice,12.5kg,12/20/2025,<2 weeks,Rainy days,Much higher,Rarely,Sometimes,Maybe,1 week,No
+Rural,Shared housing,1,Working adults,<1,Water heating,Once,5kg,12/25/2025,2 - 4 weeks,Rainy days,Slightly higher,Very often,Never,No,5 days,Maybe
+Rural,Shared housing,4,Elderly/Mixed,>4,Water heating,More than three,5kg,11/22/2025,2 - 4 weeks,Cold days,Same,Never,Yes often,Yes,1 week,Maybe
+Semi-urban,Shared housing,5+,Elderly/Mixed,>4,Lunch & dinner,Once,12.5kg,12/19/2025,<2 weeks,Rainy days,Lower,Never,Yes often,No,1 week,No
+Urban,Single house,1,Elderly/Mixed,4,Home business,Once,5kg,12/11/2025,1-2 months ,Rainy days,Slightly higher,Very often,Never,Maybe,3 days,Yes
+Semi-urban,Shared housing,5+,Working adults,<1,Breakfast only,Once,12.5kg,11/20/2025,>2 months,No change,Lower,Never,Sometimes,No,5 days,No
+Urban,Single house,4,Working adults,4,Lunch & dinner,Once,12.5kg,12/22/2025,<2 weeks,No change,Same,Sometimes,Sometimes,Yes,5 days,Yes
+Semi-urban,Shared housing,1,Elderly/Mixed,2,Breakfast only,Once,5kg,11/18/2025,>2 months,Rainy days,Same,Very often,Sometimes,No,5 days,Yes
+Semi-urban,Single house,5+,Elderly/Mixed,4,Breakfast only,Three times,5kg,1/1/2026,>2 months,No change,Slightly higher,Never,Rarely,Yes,3 days,Maybe
+Semi-urban,Apartment,1,Students/Young adults,<1,Home business,Three times,5kg,12/15/2025,2 - 4 weeks,Cold days,Lower,Rarely,Rarely,Yes,1 week,Maybe
+Rural,Shared housing,4,Students/Young adults,>4,Full-day cooking,More than three,Not sure,12/11/2025,>2 months,Rainy days,Same,Rarely,Sometimes,Maybe,5 days,Yes
+Urban,Apartment,2,Elderly/Mixed,2,Home business,Twice,12.5kg,1/3/2026,<2 weeks,No change,Slightly higher,Very often,Sometimes,Maybe,1 week,Maybe
+Semi-urban,Apartment,4,Working adults,4,Home business,Twice,Not sure,11/22/2025,<2 weeks,No change,Slightly higher,Very often,Never,Yes,5 days,Maybe
+Urban,Single house,2,Working adults,4,Home business,Once,37.5kg,12/24/2025,>2 months,No change,Slightly higher,Very often,Sometimes,No,5 days,Yes
+Rural,Shared housing,5+,Working adults,4,Lunch & dinner,Twice,12.5kg,12/6/2025,2 - 4 weeks,No change,Much higher,Never,Yes often,Maybe,5 days,Maybe
+Rural,Shared housing,2,Elderly/Mixed,2,Home business,Twice,Not sure,11/14/2025,3 - 2 months,Cold days,Lower,Rarely,Yes often,No,3 days,Maybe
+Rural,Shared housing,2,Working adults,>4,Home business,Three times,5kg,12/17/2025,2 - 4 weeks,Rainy days,Same,Rarely,Sometimes,Yes,1 week,No
+Semi-urban,Apartment,5+,Elderly/Mixed,>4,Home business,Twice,37.5kg,11/20/2025,<2 weeks,No change,Same,Sometimes,Never,Yes,3 days,No
+Urban,Single house,5+,Working adults,4,Breakfast only,Twice,37.5kg,11/20/2025,>2 months,Cold days,Slightly higher,Never,Never,Yes,5 days,No
+Urban,Single house,5+,Students/Young adults,2,Full-day cooking,Three times,12.5kg,1/2/2026,2 - 4 weeks,Rainy days,Slightly higher,Rarely,Rarely,Yes,5 days,Yes
+Rural,Shared housing,5+,Working adults,>4,Water heating,Once,5kg,11/21/2025,1-2 months ,No change,Slightly higher,Never,Sometimes,Yes,5 days,No
+Semi-urban,Shared housing,2,Elderly/Mixed,>4,Breakfast only,Three times,Not sure,11/23/2025,2 - 4 weeks,No change,Lower,Very often,Rarely,No,5 days,No
+Urban,Apartment,5+,Elderly/Mixed,<1,Water heating,More than three,37.5kg,11/26/2025,>2 months,Cold days,Slightly higher,Very often,Never,Maybe,1 week,No
+Rural,Single house,5+,Elderly/Mixed,>4,Home business,Twice,Not sure,11/15/2025,>2 months,Cold days,Same,Very often,Sometimes,Maybe,3 days,Yes
+Semi-urban,Shared housing,1,Students/Young adults,2,Breakfast only,Three times,Not sure,11/28/2025,>2 months,Cold days,Much higher,Very often,Yes often,No,5 days,Yes
+Urban,Apartment,4,Elderly/Mixed,>4,Water heating,Three times,12.5kg,11/28/2025,4 - 2 months,Rainy days,Slightly higher,Very often,Yes often,No,3 days,Maybe
+Rural,Shared housing,5+,Students/Young adults,2,Water heating,Once,37.5kg,12/27/2025,<2 weeks,No change,Slightly higher,Rarely,Sometimes,No,3 days,Maybe
+Urban,Single house,2,Students/Young adults,>4,Breakfast only,Three times,Not sure,11/15/2025,<2 weeks,Rainy days,Lower,Never,Sometimes,Maybe,1 week,No
+Urban,Single house,2,Elderly/Mixed,2,Breakfast only,Three times,12.5kg,12/8/2025,<2 weeks,No change,Much higher,Never,Rarely,Yes,5 days,Yes
+Semi-urban,Shared housing,2,Working adults,>4,Home business,Twice,5kg,12/12/2025,>2 months,Cold days,Much higher,Rarely,Never,No,1 week,No
+Rural,Shared housing,5+,Students/Young adults,<1,Lunch & dinner,Three times,37.5kg,12/9/2025,<2 weeks,No change,Same,Rarely,Yes often,Maybe,5 days,No
+Rural,Shared housing,1,Students/Young adults,<1,Breakfast only,More than three,Not sure,1/1/2026,2 - 4 weeks,Rainy days,Same,Very often,Rarely,Maybe,5 days,Yes
+Urban,Shared housing,1,Working adults,4,Water heating,Once,12.5kg,12/27/2025,<2 weeks,Cold days,Slightly higher,Sometimes,Yes often,No,5 days,Maybe
+Semi-urban,Single house,4,Students/Young adults,2,Home business,Three times,12.5kg,11/17/2025,<2 weeks,Rainy days,Same,Sometimes,Rarely,No,3 days,No
+Rural,Apartment,4,Elderly/Mixed,>4,Full-day cooking,Twice,12.5kg,11/27/2025,1-2 months ,Rainy days,Same,Very often,Rarely,Yes,3 days,No
+Urban,Shared housing,4,Students/Young adults,<1,Full-day cooking,Twice,Not sure,12/13/2025,>2 months,Rainy days,Same,Very often,Rarely,Maybe,1 week,No
+Semi-urban,Apartment,5+,Working adults,>4,Breakfast only,Three times,5kg,11/23/2025,>2 months,Cold days,Same,Very often,Sometimes,Yes,5 days,Yes
+Semi-urban,Shared housing,2,Working adults,2,Water heating,Once,12.5kg,11/25/2025,5 - 2 months,Cold days,Much higher,Never,Rarely,Yes,5 days,No
+Urban,Single house,1,Working adults,2,Water heating,Twice,12.5kg,12/12/2025,1-2 months ,No change,Much higher,Sometimes,Yes often,Yes,3 days,No
+Rural,Apartment,2,Elderly/Mixed,<1,Breakfast only,Once,5kg,11/30/2025,>2 months,Cold days,Much higher,Sometimes,Sometimes,No,1 week,Yes
+Rural,Apartment,4,Working adults,<1,Lunch & dinner,Twice,Not sure,11/11/2025,2 - 4 weeks,Rainy days,Much higher,Very often,Rarely,Maybe,1 week,No
+Urban,Single house,4,Working adults,<1,Full-day cooking,More than three,Not sure,12/11/2025,<2 weeks,No change,Much higher,Very often,Rarely,Yes,5 days,Yes
+Rural,Shared housing,2,Elderly/Mixed,4,Full-day cooking,Twice,Not sure,12/23/2025,2 - 4 weeks,No change,Much higher,Never,Sometimes,Yes,3 days,Maybe
+Urban,Shared housing,5+,Elderly/Mixed,<1,Water heating,Once,5kg,12/22/2025,2 - 4 weeks,No change,Same,Never,Never,Maybe,5 days,Maybe
+Semi-urban,Apartment,5+,Elderly/Mixed,<1,Full-day cooking,Three times,5kg,12/19/2025,<2 weeks,Cold days,Slightly higher,Sometimes,Rarely,Maybe,3 days,No
+Urban,Apartment,5+,Elderly/Mixed,>4,Home business,Twice,37.5kg,1/5/2026,>2 months,Cold days,Lower,Very often,Never,No,1 week,Maybe
+Urban,Apartment,4,Working adults,>4,Full-day cooking,Twice,12.5kg,12/27/2025,1 - 2 months,No change,Same,Sometimes,Sometimes,No,3 days,Yes
+Rural,Shared housing,1,Elderly/Mixed,2,Breakfast only,Three times,5kg,12/27/2025,2 - 4 weeks,Cold days,Same,Sometimes,Sometimes,No,1 week,No
+Urban,Single house,1,Elderly/Mixed,2,Full-day cooking,Twice,37.5kg,11/10/2025,<2 weeks,No change,Lower,Never,Rarely,Yes,1 week,Maybe
+Semi-urban,Shared housing,2,Elderly/Mixed,4,Lunch & dinner,Twice,5kg,12/13/2025,>2 months,Cold days,Slightly higher,Very often,Sometimes,No,5 days,Yes
+Semi-urban,Shared housing,1,Elderly/Mixed,2,Home business,Three times,5kg,12/28/2025,2 - 4 weeks,Cold days,Slightly higher,Never,Never,Maybe,3 days,No
+Semi-urban,Shared housing,5+,Students/Young adults,<1,Lunch & dinner,Once,37.5kg,12/15/2025,>2 months,Cold days,Same,Sometimes,Sometimes,Maybe,3 days,Maybe
+Urban,Single house,1,Elderly/Mixed,2,Full-day cooking,More than three,37.5kg,12/28/2025,2 - 4 weeks,No change,Slightly higher,Sometimes,Rarely,Yes,5 days,Yes
+Urban,Apartment,2,Working adults,<1,Home business,Twice,Not sure,11/20/2025,2 - 4 weeks,Rainy days,Much higher,Rarely,Yes often,Maybe,3 days,Yes
+Urban,Apartment,5+,Working adults,4,Breakfast only,Three times,37.5kg,11/30/2025,2 - 4 weeks,Rainy days,Same,Rarely,Rarely,No,1 week,Yes
+Semi-urban,Single house,1,Students/Young adults,4,Breakfast only,Once,12.5kg,12/25/2025,4 - 2 months,Rainy days,Lower,Very often,Yes often,Yes,3 days,Maybe
+Rural,Shared housing,2,Students/Young adults,>4,Home business,Twice,12.5kg,12/5/2025,<2 weeks,No change,Same,Never,Never,Maybe,3 days,No
+Semi-urban,Single house,1,Students/Young adults,4,Water heating,Once,12.5kg,11/11/2025,2 - 4 weeks,No change,Slightly higher,Rarely,Yes often,Maybe,3 days,Yes
+Semi-urban,Single house,2,Students/Young adults,<1,Water heating,Twice,5kg,12/18/2025,>2 months,Cold days,Slightly higher,Rarely,Yes often,No,5 days,Yes
+Rural,Single house,1,Elderly/Mixed,>4,Breakfast only,Once,5kg,11/14/2025,1-2 months ,Cold days,Much higher,Rarely,Never,Maybe,5 days,Maybe
+Semi-urban,Single house,1,Working adults,<1,Home business,Once,37.5kg,12/13/2025,2 - 4 weeks,No change,Lower,Never,Yes often,Yes,5 days,Maybe
+Rural,Single house,2,Students/Young adults,2,Home business,Once,Not sure,12/5/2025,4 - 2 months,Cold days,Slightly higher,Sometimes,Never,No,1 week,Yes
+Rural,Apartment,4,Working adults,>4,Lunch & dinner,Once,12.5kg,12/12/2025,2 - 4 weeks,No change,Much higher,Rarely,Rarely,Yes,1 week,No
+Urban,Apartment,1,Elderly/Mixed,<1,Lunch & dinner,More than three,37.5kg,12/6/2025,<2 weeks,Rainy days,Much higher,Never,Rarely,No,3 days,No
+Semi-urban,Single house,1,Working adults,<1,Breakfast only,Twice,37.5kg,12/24/2025,2 - 4 weeks,No change,Slightly higher,Very often,Sometimes,Yes,1 week,Maybe
+Rural,Apartment,2,Working adults,4,Breakfast only,Twice,12.5kg,12/18/2025,2 - 4 weeks,Cold days,Lower,Sometimes,Never,No,1 week,No
+Rural,Apartment,5+,Students/Young adults,>4,Lunch & dinner,Three times,Not sure,12/16/2025,1-2 months ,Cold days,Same,Rarely,Never,Maybe,1 week,No
+Urban,Single house,2,Elderly/Mixed,<1,Full-day cooking,Once,Not sure,11/30/2025,>2 months,Rainy days,Same,Rarely,Sometimes,Maybe,5 days,No
+Urban,Single house,1,Working adults,4,Lunch & dinner,More than three,Not sure,12/12/2025,<2 weeks,Rainy days,Slightly higher,Sometimes,Yes often,Maybe,3 days,Yes
+Semi-urban,Apartment,1,Students/Young adults,>4,Home business,Twice,Not sure,11/7/2025,5 - 2 months,Cold days,Lower,Rarely,Yes often,No,5 days,Maybe
+Urban,Single house,1,Students/Young adults,<1,Home business,Once,5kg,11/19/2025,2 - 4 weeks,No change,Same,Very often,Rarely,Yes,1 week,No
+Rural,Apartment,4,Working adults,>4,Full-day cooking,Twice,37.5kg,12/19/2025,1-2 months ,Cold days,Much higher,Very often,Never,Yes,3 days,No
+Semi-urban,Single house,1,Students/Young adults,2,Water heating,Once,Not sure,12/22/2025,<2 weeks,Rainy days,Slightly higher,Sometimes,Never,Yes,1 week,Maybe
+Rural,Single house,5+,Students/Young adults,<1,Lunch & dinner,Once,5kg,12/5/2025,2 - 4 weeks,Rainy days,Same,Rarely,Yes often,Yes,3 days,Maybe
+Semi-urban,Apartment,1,Working adults,4,Breakfast only,Three times,12.5kg,12/26/2025,<2 weeks,Rainy days,Much higher,Sometimes,Rarely,No,3 days,No
+Rural,Shared housing,5+,Elderly/Mixed,2,Breakfast only,Three times,5kg,12/25/2025,2 - 4 weeks,No change,Much higher,Very often,Yes often,Yes,1 week,Maybe
+Rural,Single house,4,Working adults,2,Lunch & dinner,Once,37.5kg,11/20/2025,>2 months,No change,Slightly higher,Very often,Rarely,No,1 week,Maybe
+Urban,Apartment,4,Working adults,<1,Full-day cooking,Three times,37.5kg,11/15/2025,>2 months,No change,Slightly higher,Rarely,Rarely,Maybe,3 days,Yes
+Semi-urban,Shared housing,1,Elderly/Mixed,<1,Full-day cooking,More than three,5kg,11/18/2025,2 - 4 weeks,No change,Much higher,Sometimes,Yes often,No,5 days,Yes
+Semi-urban,Apartment,5+,Elderly/Mixed,>4,Lunch & dinner,More than three,12.5kg,1/1/2026,3 - 2 months,Rainy days,Same,Sometimes,Rarely,Maybe,3 days,Maybe
+Semi-urban,Shared housing,2,Working adults,<1,Breakfast only,Twice,5kg,11/27/2025,2 - 4 weeks,Cold days,Much higher,Rarely,Rarely,No,5 days,No
+Semi-urban,Shared housing,4,Students/Young adults,4,Water heating,Three times,37.5kg,12/9/2025,2 - 4 weeks,Rainy days,Lower,Never,Never,No,1 week,Maybe
+Urban,Apartment,4,Working adults,4,Full-day cooking,Three times,12.5kg,11/22/2025,2 - 4 weeks,Cold days,Slightly higher,Rarely,Never,Maybe,1 week,Yes
+Semi-urban,Single house,2,Elderly/Mixed,2,Lunch & dinner,Three times,37.5kg,12/14/2025,>2 months,No change,Lower,Rarely,Sometimes,No,3 days,Maybe
+Rural,Shared housing,1,Elderly/Mixed,>4,Water heating,Three times,37.5kg,11/11/2025,<2 weeks,No change,Much higher,Rarely,Never,Maybe,1 week,Maybe
+Urban,Shared housing,2,Working adults,>4,Breakfast only,Once,Not sure,12/5/2025,2 - 2 months,No change,Same,Very often,Rarely,Yes,5 days,Yes
+Urban,Single house,5+,Students/Young adults,4,Water heating,Three times,Not sure,12/26/2025,1-2 months ,Cold days,Slightly higher,Very often,Never,Yes,3 days,Yes
+Semi-urban,Shared housing,2,Students/Young adults,4,Breakfast only,Twice,37.5kg,1/1/2026,2 - 4 weeks,No change,Lower,Never,Sometimes,Maybe,5 days,Yes
+Semi-urban,Single house,4,Working adults,<1,Lunch & dinner,Three times,37.5kg,12/9/2025,>2 months,Cold days,Same,Sometimes,Yes often,Yes,5 days,Maybe
+Rural,Shared housing,4,Working adults,>4,Lunch & dinner,Three times,Not sure,11/17/2025,>2 months,No change,Much higher,Sometimes,Rarely,No,3 days,Maybe
+Semi-urban,Apartment,2,Working adults,2,Home business,More than three,5kg,12/31/2025,>2 months,No change,Much higher,Very often,Yes often,Yes,5 days,Maybe
+Urban,Apartment,5+,Students/Young adults,4,Home business,Twice,12.5kg,11/15/2025,<2 weeks,No change,Slightly higher,Never,Never,Yes,1 week,Maybe
+Rural,Shared housing,4,Working adults,>4,Breakfast only,Twice,Not sure,12/15/2025,2 - 4 weeks,Cold days,Lower,Very often,Rarely,No,1 week,Maybe
+Urban,Shared housing,4,Students/Young adults,4,Water heating,More than three,5kg,12/7/2025,3 - 2 months,Cold days,Slightly higher,Never,Sometimes,Yes,3 days,Maybe
+Rural,Single house,2,Students/Young adults,4,Home business,Three times,5kg,12/2/2025,>2 months,No change,Lower,Sometimes,Sometimes,Yes,5 days,Yes
+Semi-urban,Single house,5+,Students/Young adults,<1,Home business,More than three,5kg,11/29/2025,>2 months,No change,Slightly higher,Never,Never,No,1 week,Maybe
+Semi-urban,Apartment,1,Working adults,>4,Breakfast only,Twice,Not sure,12/28/2025,2 - 4 weeks,Rainy days,Same,Very often,Never,Maybe,1 week,Maybe
+Urban,Shared housing,1,Working adults,>4,Full-day cooking,Three times,Not sure,11/22/2025,<2 weeks,No change,Same,Very often,Yes often,No,5 days,Maybe
+Urban,Single house,4,Working adults,2,Full-day cooking,Three times,12.5kg,12/26/2025,<2 weeks,Cold days,Same,Never,Rarely,Maybe,5 days,Yes
+Semi-urban,Single house,4,Working adults,4,Water heating,Once,37.5kg,11/7/2025,1-2 months ,Cold days,Much higher,Never,Yes often,Maybe,1 week,No
+Rural,Shared housing,5+,Students/Young adults,>4,Full-day cooking,Twice,5kg,12/9/2025,>2 months,Cold days,Lower,Never,Yes often,Yes,1 week,Maybe
+Urban,Apartment,1,Elderly/Mixed,4,Breakfast only,Once,5kg,12/27/2025,2 - 4 weeks,Rainy days,Lower,Never,Yes often,No,1 week,Yes
+Rural,Apartment,2,Students/Young adults,2,Lunch & dinner,Once,12.5kg,12/31/2025,>2 months,No change,Lower,Very often,Rarely,Maybe,3 days,Maybe
+Semi-urban,Shared housing,5+,Students/Young adults,2,Water heating,Three times,37.5kg,12/22/2025,<2 weeks,No change,Much higher,Sometimes,Sometimes,No,3 days,No
+Rural,Apartment,4,Elderly/Mixed,4,Breakfast only,More than three,5kg,12/23/2025,2 - 4 weeks,No change,Slightly higher,Never,Sometimes,Maybe,5 days,Maybe
+Urban,Single house,2,Students/Young adults,4,Lunch & dinner,More than three,5kg,12/20/2025,2 - 4 weeks,Cold days,Slightly higher,Rarely,Rarely,Yes,1 week,Yes
+Semi-urban,Apartment,1,Students/Young adults,<1,Lunch & dinner,Three times,Not sure,11/24/2025,4 - 2 months,Cold days,Lower,Sometimes,Yes often,No,5 days,No
+Urban,Shared housing,5+,Students/Young adults,2,Full-day cooking,Three times,5kg,11/14/2025,>2 months,No change,Lower,Rarely,Sometimes,Maybe,1 week,Maybe
+Urban,Single house,5+,Students/Young adults,>4,Lunch & dinner,Twice,5kg,11/23/2025,2 - 4 weeks,Rainy days,Lower,Very often,Rarely,Maybe,1 week,Maybe
+Rural,Shared housing,2,Students/Young adults,2,Home business,Three times,Not sure,12/29/2025,>2 months,Cold days,Much higher,Sometimes,Yes often,Yes,5 days,Yes
+Rural,Single house,5+,Elderly/Mixed,<1,Lunch & dinner,Twice,12.5kg,1/5/2026,<2 weeks,Cold days,Much higher,Very often,Sometimes,No,3 days,No
+Rural,Single house,4,Students/Young adults,<1,Lunch & dinner,Once,12.5kg,12/9/2025,2 - 4 weeks,Rainy days,Same,Rarely,Sometimes,Yes,3 days,Yes
+Rural,Shared housing,5+,Working adults,>4,Full-day cooking,Three times,Not sure,11/29/2025,>2 months,Rainy days,Lower,Rarely,Never,Yes,1 week,No
+Urban,Shared housing,5+,Working adults,<1,Breakfast only,Twice,Not sure,12/23/2025,2 - 4 weeks,Rainy days,Lower,Very often,Never,Yes,3 days,Yes
+Urban,Single house,1,Working adults,<1,Breakfast only,Once,12.5kg,1/1/2026,>2 months,Rainy days,Same,Rarely,Sometimes,No,1 week,Maybe
+Urban,Single house,1,Working adults,>4,Water heating,Once,12.5kg,12/24/2025,>2 months,Cold days,Slightly higher,Very often,Sometimes,Maybe,1 week,Yes
+Semi-urban,Shared housing,2,Working adults,<1,Full-day cooking,Once,5kg,1/1/2026,>2 months,No change,Lower,Sometimes,Sometimes,Maybe,1 week,Maybe
+Semi-urban,Shared housing,4,Students/Young adults,<1,Water heating,Three times,37.5kg,11/27/2025,>2 months,No change,Lower,Sometimes,Yes often,No,1 week,Yes
+Semi-urban,Apartment,1,Students/Young adults,4,Full-day cooking,More than three,37.5kg,12/17/2025,>2 months,No change,Slightly higher,Never,Never,Yes,5 days,Maybe
+Semi-urban,Apartment,1,Students/Young adults,<1,Home business,Once,37.5kg,12/14/2025,2 - 4 weeks,Cold days,Slightly higher,Sometimes,Sometimes,Maybe,5 days,No
+Urban,Single house,5+,Elderly/Mixed,4,Lunch & dinner,More than three,12.5kg,12/18/2025,>2 months,Cold days,Lower,Sometimes,Yes often,Maybe,5 days,No
+Semi-urban,Shared housing,1,Working adults,2,Home business,More than three,37.5kg,11/28/2025,2 - 4 weeks,No change,Lower,Sometimes,Sometimes,Yes,3 days,No
+Rural,Single house,1,Students/Young adults,2,Full-day cooking,Three times,Not sure,1/1/2026,1-2 months ,Rainy days,Much higher,Never,Sometimes,Maybe,5 days,No
+Rural,Single house,2,Elderly/Mixed,<1,Lunch & dinner,More than three,Not sure,11/25/2025,2 - 4 weeks,Rainy days,Much higher,Sometimes,Rarely,No,3 days,Yes
+Semi-urban,Shared housing,5+,Students/Young adults,<1,Water heating,Twice,37.5kg,12/19/2025,5 - 2 months,Rainy days,Slightly higher,Rarely,Yes often,Yes,1 week,Yes
+Semi-urban,Apartment,4,Working adults,2,Full-day cooking,Once,Not sure,11/9/2025,1-2 months ,Rainy days,Much higher,Very often,Yes often,Maybe,1 week,Yes
+Semi-urban,Apartment,1,Working adults,2,Breakfast only,Once,12.5kg,12/25/2025,2 - 4 weeks,No change,Lower,Sometimes,Never,No,3 days,Yes
+Rural,Single house,2,Working adults,4,Full-day cooking,Three times,37.5kg,12/26/2025,2 - 4 weeks,Cold days,Same,Sometimes,Rarely,Maybe,3 days,Maybe
+Rural,Apartment,4,Working adults,2,Breakfast only,Once,5kg,12/21/2025,>2 months,No change,Lower,Rarely,Yes often,Maybe,3 days,Yes
+Semi-urban,Shared housing,2,Students/Young adults,>4,Full-day cooking,Three times,5kg,12/14/2025,2 - 4 weeks,Cold days,Same,Sometimes,Never,Maybe,1 week,Yes
+Rural,Shared housing,4,Working adults,2,Home business,Once,12.5kg,11/8/2025,<2 weeks,No change,Lower,Rarely,Rarely,Maybe,1 week,Yes
+Rural,Single house,4,Working adults,4,Water heating,More than three,Not sure,12/17/2025,2 - 4 weeks,Cold days,Lower,Very often,Yes often,Yes,3 days,No
+Urban,Single house,4,Students/Young adults,>4,Lunch & dinner,Once,37.5kg,11/16/2025,>2 months,No change,Much higher,Very often,Never,Maybe,5 days,Maybe
+Urban,Shared housing,2,Elderly/Mixed,2,Home business,Twice,5kg,11/16/2025,>2 months,Cold days,Much higher,Very often,Rarely,Maybe,1 week,Maybe
+Semi-urban,Shared housing,5+,Students/Young adults,>4,Home business,Three times,Not sure,12/25/2025,2 - 4 weeks,No change,Much higher,Very often,Yes often,Maybe,5 days,No
+Rural,Shared housing,5+,Students/Young adults,2,Water heating,Once,12.5kg,1/5/2026,<2 weeks,No change,Same,Sometimes,Sometimes,No,5 days,Yes
+Rural,Apartment,4,Elderly/Mixed,<1,Water heating,More than three,Not sure,11/28/2025,1 - 2 months,No change,Same,Rarely,Sometimes,No,3 days,No
+Semi-urban,Shared housing,2,Students/Young adults,2,Full-day cooking,Once,37.5kg,11/22/2025,<2 weeks,Rainy days,Slightly higher,Never,Yes often,Maybe,3 days,Maybe
+Rural,Apartment,4,Working adults,4,Home business,Twice,12.5kg,11/19/2025,2 - 4 weeks,Rainy days,Much higher,Very often,Yes often,No,5 days,Maybe
+Semi-urban,Apartment,2,Working adults,2,Water heating,More than three,Not sure,12/19/2025,2 - 4 weeks,Rainy days,Much higher,Very often,Yes often,No,1 week,Maybe
+Semi-urban,Apartment,4,Students/Young adults,4,Home business,Once,12.5kg,12/30/2025,2 - 4 weeks,Cold days,Same,Rarely,Rarely,No,5 days,No
+Semi-urban,Single house,5+,Working adults,4,Water heating,Three times,Not sure,12/3/2025,<2 weeks,Cold days,Much higher,Never,Never,Yes,3 days,No
+Rural,Shared housing,1,Students/Young adults,2,Full-day cooking,More than three,Not sure,1/1/2026,>2 months,Rainy days,Slightly higher,Never,Sometimes,Maybe,1 week,Maybe
+Rural,Single house,4,Students/Young adults,4,Breakfast only,More than three,Not sure,11/26/2025,<2 weeks,Rainy days,Slightly higher,Rarely,Yes often,No,3 days,Maybe
+Rural,Shared housing,4,Elderly/Mixed,<1,Full-day cooking,Once,37.5kg,12/15/2025,>2 months,No change,Lower,Never,Never,No,3 days,Yes
+Semi-urban,Single house,5+,Students/Young adults,2,Lunch & dinner,Once,37.5kg,1/5/2026,>2 months,No change,Slightly higher,Sometimes,Sometimes,No,3 days,No
+Rural,Apartment,4,Working adults,2,Full-day cooking,Once,12.5kg,12/20/2025,4 - 2 months,No change,Lower,Sometimes,Sometimes,No,5 days,No
+Rural,Single house,4,Working adults,4,Full-day cooking,Twice,5kg,12/9/2025,<2 weeks,No change,Slightly higher,Never,Sometimes,Yes,3 days,No
+Rural,Shared housing,5+,Students/Young adults,>4,Lunch & dinner,Three times,Not sure,12/3/2025,>2 months,Cold days,Much higher,Never,Sometimes,Yes,1 week,No
+Semi-urban,Shared housing,5+,Elderly/Mixed,2,Lunch & dinner,Twice,Not sure,11/14/2025,<2 weeks,Cold days,Same,Never,Sometimes,No,3 days,Yes
+Rural,Shared housing,1,Students/Young adults,>4,Breakfast only,Once,5kg,1/2/2026,2 - 4 weeks,Cold days,Slightly higher,Rarely,Sometimes,Maybe,5 days,Maybe
+Urban,Single house,5+,Working adults,4,Home business,Three times,Not sure,12/25/2025,2 - 4 weeks,Rainy days,Lower,Very often,Rarely,Yes,5 days,Yes
+Semi-urban,Apartment,1,Working adults,<1,Home business,Once,37.5kg,12/10/2025,<2 weeks,No change,Much higher,Rarely,Yes often,Yes,3 days,Yes
+Semi-urban,Shared housing,2,Elderly/Mixed,4,Water heating,More than three,Not sure,11/13/2025,>2 months,Rainy days,Much higher,Rarely,Rarely,Yes,1 week,No
+Rural,Shared housing,2,Working adults,>4,Water heating,Twice,Not sure,1/2/2026,1-2 months ,No change,Much higher,Sometimes,Never,Yes,3 days,No
+Urban,Shared housing,4,Working adults,>4,Home business,Once,37.5kg,12/24/2025,2 - 4 weeks,Rainy days,Much higher,Rarely,Yes often,No,1 week,Maybe
+Rural,Shared housing,2,Elderly/Mixed,4,Lunch & dinner,More than three,5kg,12/16/2025,<2 weeks,No change,Much higher,Rarely,Yes often,No,3 days,Yes
+Semi-urban,Single house,1,Working adults,>4,Lunch & dinner,More than three,5kg,11/28/2025,<2 weeks,Cold days,Same,Very often,Sometimes,No,5 days,Yes
+Semi-urban,Single house,1,Elderly/Mixed,4,Lunch & dinner,Twice,37.5kg,12/28/2025,4 - 2 months,No change,Much higher,Never,Rarely,No,3 days,No
+Semi-urban,Shared housing,5+,Working adults,4,Water heating,Twice,5kg,12/20/2025,1-2 months ,No change,Same,Rarely,Yes often,Maybe,1 week,Maybe
+Semi-urban,Apartment,2,Working adults,2,Lunch & dinner,More than three,Not sure,12/22/2025,>2 months,No change,Much higher,Never,Never,Maybe,3 days,No
+Rural,Apartment,1,Elderly/Mixed,4,Breakfast only,Twice,Not sure,11/27/2025,<2 weeks,No change,Slightly higher,Never,Yes often,No,3 days,Maybe
+Semi-urban,Single house,1,Working adults,4,Breakfast only,More than three,5kg,12/31/2025,<2 weeks,Rainy days,Slightly higher,Sometimes,Sometimes,Maybe,5 days,Maybe
+Urban,Shared housing,4,Students/Young adults,>4,Water heating,Three times,12.5kg,12/12/2025,5 - 2 months,Rainy days,Much higher,Never,Sometimes,Yes,5 days,No
+Rural,Apartment,1,Elderly/Mixed,2,Home business,More than three,5kg,1/3/2026,<2 weeks,Cold days,Slightly higher,Rarely,Never,No,1 week,Maybe
+Semi-urban,Shared housing,2,Working adults,2,Home business,More than three,Not sure,12/18/2025,2 - 4 weeks,Rainy days,Slightly higher,Rarely,Rarely,Maybe,3 days,Maybe
+Semi-urban,Shared housing,2,Students/Young adults,2,Water heating,Once,12.5kg,12/19/2025,>2 months,Rainy days,Same,Very often,Yes often,Yes,5 days,Yes
+Rural,Apartment,4,Working adults,2,Home business,Once,Not sure,12/23/2025,2 - 4 weeks,Cold days,Same,Very often,Yes often,Yes,3 days,Yes
+Urban,Apartment,2,Students/Young adults,<1,Full-day cooking,More than three,37.5kg,12/18/2025,>2 months,Cold days,Slightly higher,Sometimes,Sometimes,No,3 days,No
+Semi-urban,Shared housing,1,Working adults,<1,Water heating,Once,37.5kg,12/5/2025,2 - 4 weeks,No change,Same,Never,Never,Maybe,1 week,Maybe
+Semi-urban,Shared housing,2,Students/Young adults,4,Water heating,Once,Not sure,11/12/2025,2 - 2 months,Rainy days,Lower,Sometimes,Never,Yes,3 days,Maybe
+Rural,Single house,5+,Elderly/Mixed,>4,Home business,Once,12.5kg,11/22/2025,1-2 months ,No change,Slightly higher,Sometimes,Yes often,No,1 week,Maybe
+Urban,Apartment,4,Students/Young adults,2,Breakfast only,Three times,5kg,11/27/2025,2 - 4 weeks,Cold days,Slightly higher,Rarely,Never,Maybe,3 days,Maybe
+Semi-urban,Shared housing,4,Working adults,>4,Breakfast only,Once,12.5kg,11/25/2025,2 - 4 weeks,Rainy days,Much higher,Rarely,Sometimes,Yes,1 week,Yes
+Semi-urban,Single house,5+,Working adults,4,Home business,Once,Not sure,12/28/2025,3 - 2 months,No change,Much higher,Very often,Rarely,No,5 days,No
+Urban,Apartment,2,Elderly/Mixed,>4,Breakfast only,More than three,Not sure,12/11/2025,>2 months,No change,Much higher,Never,Yes often,Yes,5 days,No
+Semi-urban,Single house,5+,Elderly/Mixed,2,Water heating,Three times,Not sure,1/5/2026,>2 months,No change,Slightly higher,Never,Rarely,Maybe,1 week,Yes
+Urban,Shared housing,4,Elderly/Mixed,2,Lunch & dinner,More than three,12.5kg,12/21/2025,<2 weeks,Cold days,Same,Sometimes,Yes often,Maybe,1 week,Yes
+Rural,Single house,1,Students/Young adults,2,Home business,More than three,Not sure,11/13/2025,1-2 months ,No change,Slightly higher,Very often,Never,No,1 week,Maybe
+Urban,Shared housing,2,Working adults,<1,Lunch & dinner,Three times,12.5kg,1/4/2026,>2 months,Cold days,Slightly higher,Rarely,Never,No,5 days,Yes
+Urban,Single house,2,Working adults,>4,Water heating,Once,37.5kg,12/16/2025,4 - 2 months,Rainy days,Same,Rarely,Sometimes,Yes,5 days,Yes
+Semi-urban,Apartment,2,Working adults,<1,Lunch & dinner,Twice,5kg,12/30/2025,<2 weeks,Rainy days,Lower,Sometimes,Rarely,Maybe,3 days,Yes
+Semi-urban,Single house,5+,Elderly/Mixed,<1,Water heating,Twice,Not sure,12/25/2025,2 - 4 weeks,Cold days,Same,Sometimes,Never,No,5 days,Yes
+Semi-urban,Single house,1,Elderly/Mixed,2,Lunch & dinner,Twice,12.5kg,11/16/2025,<2 weeks,No change,Slightly higher,Sometimes,Rarely,Maybe,5 days,Maybe
+Semi-urban,Single house,2,Elderly/Mixed,2,Water heating,Three times,Not sure,11/15/2025,<2 weeks,Cold days,Much higher,Very often,Never,No,3 days,Maybe
+Rural,Shared housing,4,Elderly/Mixed,<1,Water heating,Once,12.5kg,12/28/2025,2 - 4 weeks,Rainy days,Lower,Never,Rarely,Maybe,5 days,Yes
+Rural,Single house,2,Students/Young adults,<1,Lunch & dinner,More than three,Not sure,12/29/2025,<2 weeks,No change,Lower,Very often,Yes often,Maybe,5 days,Maybe
+Urban,Apartment,5+,Elderly/Mixed,2,Lunch & dinner,Twice,Not sure,12/23/2025,2 - 4 weeks,Rainy days,Lower,Never,Rarely,Yes,1 week,No
+Urban,Shared housing,4,Elderly/Mixed,4,Breakfast only,More than three,Not sure,12/30/2025,<2 weeks,Cold days,Much higher,Rarely,Yes often,Yes,5 days,No
+Semi-urban,Single house,1,Working adults,<1,Full-day cooking,More than three,12.5kg,11/9/2025,<2 weeks,No change,Lower,Never,Rarely,Yes,3 days,No
+Rural,Shared housing,1,Students/Young adults,2,Full-day cooking,Three times,37.5kg,12/13/2025,2 - 4 weeks,Cold days,Lower,Very often,Rarely,Maybe,3 days,Maybe
+Semi-urban,Apartment,5+,Working adults,>4,Home business,Three times,5kg,12/16/2025,1-2 months ,Cold days,Same,Rarely,Never,No,3 days,Yes
+Rural,Shared housing,1,Working adults,>4,Full-day cooking,Twice,5kg,11/29/2025,5 - 2 months,Cold days,Much higher,Rarely,Yes often,Maybe,1 week,Maybe
+Semi-urban,Apartment,2,Working adults,<1,Full-day cooking,Twice,12.5kg,11/22/2025,1-2 months ,No change,Lower,Very often,Rarely,Maybe,5 days,No
+Semi-urban,Shared housing,4,Working adults,<1,Lunch & dinner,More than three,12.5kg,12/24/2025,>2 months,Rainy days,Lower,Rarely,Yes often,Yes,3 days,Maybe
+Semi-urban,Shared housing,2,Working adults,4,Water heating,Three times,37.5kg,12/8/2025,>2 months,Rainy days,Slightly higher,Sometimes,Rarely,Maybe,1 week,Yes
+Semi-urban,Single house,5+,Elderly/Mixed,>4,Full-day cooking,Once,Not sure,12/24/2025,1 - 2 months,Rainy days,Lower,Rarely,Sometimes,Maybe,1 week,Yes
+Urban,Apartment,2,Students/Young adults,2,Home business,Twice,5kg,11/11/2025,<2 weeks,No change,Much higher,Never,Rarely,Yes,3 days,No
+Semi-urban,Single house,1,Students/Young adults,>4,Water heating,Once,12.5kg,12/29/2025,4 - 2 months,Rainy days,Slightly higher,Very often,Sometimes,No,3 days,No
+Semi-urban,Apartment,1,Students/Young adults,<1,Home business,Three times,37.5kg,12/24/2025,>2 months,No change,Much higher,Rarely,Rarely,Yes,3 days,Maybe
+Rural,Apartment,4,Elderly/Mixed,4,Breakfast only,Twice,12.5kg,12/18/2025,2 - 4 weeks,No change,Slightly higher,Very often,Rarely,Yes,3 days,Yes
+Semi-urban,Single house,2,Students/Young adults,>4,Lunch & dinner,Once,37.5kg,12/4/2025,1-2 months ,No change,Same,Rarely,Never,Maybe,5 days,Maybe
+Rural,Shared housing,5+,Working adults,2,Home business,More than three,12.5kg,1/5/2026,<2 weeks,Rainy days,Much higher,Very often,Yes often,Maybe,5 days,No
+Semi-urban,Apartment,2,Elderly/Mixed,<1,Lunch & dinner,Three times,Not sure,12/29/2025,<2 weeks,Rainy days,Lower,Rarely,Rarely,Yes,3 days,No
+Rural,Shared housing,5+,Working adults,<1,Lunch & dinner,Three times,12.5kg,11/27/2025,>2 months,No change,Much higher,Very often,Yes often,Yes,3 days,No
+Semi-urban,Shared housing,1,Elderly/Mixed,4,Home business,Once,5kg,11/18/2025,4 - 2 months,Rainy days,Much higher,Sometimes,Never,Yes,1 week,Maybe
+Urban,Shared housing,2,Working adults,4,Full-day cooking,Once,Not sure,11/8/2025,<2 weeks,Cold days,Same,Never,Yes often,No,1 week,Maybe
+Semi-urban,Shared housing,4,Working adults,4,Breakfast only,Three times,Not sure,12/8/2025,<2 weeks,Rainy days,Slightly higher,Rarely,Yes often,No,5 days,No
+Rural,Apartment,5+,Elderly/Mixed,4,Full-day cooking,Twice,37.5kg,11/8/2025,>2 months,Cold days,Same,Very often,Sometimes,Yes,3 days,Maybe
+Rural,Single house,4,Working adults,4,Water heating,Once,Not sure,11/19/2025,1-2 months ,No change,Slightly higher,Rarely,Sometimes,Yes,5 days,Maybe
+Urban,Shared housing,5+,Elderly/Mixed,4,Home business,Three times,37.5kg,12/10/2025,2 - 4 weeks,No change,Slightly higher,Rarely,Sometimes,Yes,3 days,Yes
+Rural,Apartment,5+,Elderly/Mixed,>4,Full-day cooking,More than three,Not sure,12/1/2025,2 - 4 weeks,Cold days,Same,Sometimes,Sometimes,Maybe,3 days,Yes
+Semi-urban,Apartment,2,Students/Young adults,4,Full-day cooking,Once,37.5kg,12/19/2025,>2 months,Rainy days,Same,Rarely,Yes often,Maybe,3 days,No
+Semi-urban,Shared housing,4,Elderly/Mixed,4,Full-day cooking,Twice,Not sure,12/1/2025,5 - 2 months,No change,Same,Very often,Rarely,Yes,3 days,Yes
+Semi-urban,Single house,5+,Working adults,<1,Full-day cooking,Twice,Not sure,12/6/2025,1-2 months ,No change,Lower,Never,Never,Yes,5 days,Maybe
+Semi-urban,Single house,4,Elderly/Mixed,2,Full-day cooking,Once,5kg,12/26/2025,<2 weeks,Cold days,Slightly higher,Very often,Yes often,Yes,3 days,Maybe
+Urban,Single house,2,Working adults,2,Water heating,More than three,12.5kg,12/22/2025,<2 weeks,No change,Lower,Never,Rarely,No,3 days,Maybe
+Urban,Single house,5+,Working adults,<1,Full-day cooking,Three times,37.5kg,11/22/2025,2 - 2 months,Rainy days,Slightly higher,Very often,Never,Yes,5 days,No
+Rural,Apartment,4,Elderly/Mixed,4,Breakfast only,Three times,37.5kg,12/23/2025,2 - 4 weeks,No change,Much higher,Very often,Never,Yes,5 days,Yes
+Urban,Shared housing,4,Working adults,4,Full-day cooking,Three times,5kg,12/22/2025,1-2 months ,Cold days,Same,Never,Never,Yes,1 week,Maybe
+Urban,Apartment,2,Working adults,4,Breakfast only,Once,37.5kg,11/10/2025,>2 months,Rainy days,Same,Never,Rarely,Yes,3 days,No
+Semi-urban,Shared housing,2,Working adults,2,Breakfast only,Three times,5kg,11/19/2025,>2 months,Rainy days,Much higher,Very often,Never,Maybe,1 week,Maybe
+Urban,Apartment,1,Students/Young adults,<1,Home business,Twice,12.5kg,1/5/2026,<2 weeks,Rainy days,Lower,Rarely,Rarely,Yes,3 days,No
+Rural,Shared housing,2,Students/Young adults,2,Full-day cooking,Three times,5kg,11/7/2025,<2 weeks,Cold days,Much higher,Sometimes,Never,Yes,1 week,No
+Urban,Apartment,1,Working adults,<1,Water heating,More than three,37.5kg,12/4/2025,2 - 4 weeks,Rainy days,Same,Very often,Rarely,Maybe,5 days,Maybe
+Urban,Apartment,5+,Students/Young adults,>4,Full-day cooking,Twice,37.5kg,12/6/2025,>2 months,Cold days,Same,Very often,Yes often,Maybe,3 days,No
+Urban,Apartment,2,Elderly/Mixed,4,Full-day cooking,Three times,5kg,1/5/2026,3 - 2 months,Rainy days,Slightly higher,Rarely,Yes often,Yes,5 days,Maybe
+Rural,Shared housing,1,Students/Young adults,4,Breakfast only,Once,5kg,11/22/2025,2 - 4 weeks,No change,Much higher,Rarely,Never,Yes,1 week,No
+Rural,Apartment,2,Students/Young adults,<1,Full-day cooking,Once,12.5kg,11/12/2025,2 - 4 weeks,No change,Slightly higher,Very often,Never,Yes,5 days,No
+Semi-urban,Apartment,2,Working adults,>4,Home business,Once,12.5kg,11/28/2025,<2 weeks,No change,Much higher,Never,Sometimes,Maybe,5 days,Maybe
+Semi-urban,Single house,1,Elderly/Mixed,2,Breakfast only,Once,12.5kg,12/31/2025,<2 weeks,Rainy days,Same,Never,Never,No,1 week,Yes
+Semi-urban,Single house,5+,Elderly/Mixed,4,Lunch & dinner,Three times,12.5kg,1/1/2026,>2 months,No change,Slightly higher,Very often,Sometimes,No,5 days,Yes
+Urban,Apartment,4,Elderly/Mixed,2,Water heating,More than three,12.5kg,11/28/2025,2 - 4 weeks,No change,Lower,Very often,Yes often,No,3 days,Yes
+Rural,Apartment,2,Working adults,2,Water heating,Once,37.5kg,12/25/2025,<2 weeks,Cold days,Slightly higher,Rarely,Yes often,Yes,1 week,No
+Rural,Single house,2,Elderly/Mixed,2,Water heating,Once,5kg,12/24/2025,>2 months,Rainy days,Much higher,Rarely,Rarely,No,1 week,Yes
+Rural,Apartment,4,Students/Young adults,2,Lunch & dinner,Twice,37.5kg,11/21/2025,1-2 months ,No change,Slightly higher,Never,Rarely,Maybe,5 days,Maybe
+Rural,Apartment,4,Elderly/Mixed,<1,Home business,Once,12.5kg,11/28/2025,2 - 4 weeks,No change,Much higher,Very often,Yes often,No,5 days,No
+Urban,Single house,2,Working adults,>4,Full-day cooking,More than three,Not sure,12/29/2025,2 - 4 weeks,Rainy days,Much higher,Rarely,Rarely,No,1 week,No
+Rural,Apartment,1,Elderly/Mixed,<1,Home business,Three times,5kg,12/8/2025,<2 weeks,No change,Slightly higher,Sometimes,Rarely,Yes,3 days,No
+Rural,Shared housing,2,Students/Young adults,>4,Full-day cooking,Three times,37.5kg,11/23/2025,4 - 2 months,No change,Same,Never,Yes often,Yes,3 days,Maybe
+Urban,Single house,5+,Students/Young adults,4,Home business,Three times,12.5kg,12/19/2025,<2 weeks,Cold days,Much higher,Very often,Sometimes,No,5 days,Maybe
+Urban,Shared housing,2,Working adults,2,Water heating,Three times,37.5kg,12/7/2025,<2 weeks,Cold days,Much higher,Sometimes,Yes often,Yes,3 days,Maybe
+Rural,Single house,5+,Students/Young adults,>4,Breakfast only,Once,37.5kg,12/1/2025,>2 months,Cold days,Same,Very often,Rarely,No,3 days,No
+Rural,Apartment,5+,Students/Young adults,<1,Breakfast only,Once,37.5kg,11/14/2025,>2 months,Rainy days,Lower,Never,Sometimes,No,3 days,No
+Semi-urban,Shared housing,2,Working adults,<1,Home business,More than three,5kg,12/31/2025,2 - 4 weeks,No change,Slightly higher,Rarely,Yes often,No,3 days,Yes
+Rural,Shared housing,2,Elderly/Mixed,4,Home business,Three times,37.5kg,12/30/2025,>2 months,Rainy days,Slightly higher,Sometimes,Rarely,Yes,1 week,Maybe
+Urban,Shared housing,4,Elderly/Mixed,<1,Home business,Once,12.5kg,11/16/2025,>2 months,Rainy days,Slightly higher,Sometimes,Yes often,Yes,5 days,Yes
+Urban,Shared housing,4,Students/Young adults,4,Full-day cooking,Three times,Not sure,12/24/2025,1-2 months ,Rainy days,Much higher,Sometimes,Sometimes,No,1 week,Yes
+Semi-urban,Shared housing,4,Students/Young adults,<1,Breakfast only,Three times,5kg,11/9/2025,<2 weeks,No change,Same,Never,Sometimes,Maybe,1 week,No
+Rural,Apartment,4,Elderly/Mixed,>4,Full-day cooking,Three times,Not sure,11/24/2025,>2 months,No change,Lower,Never,Rarely,Yes,5 days,No
+Rural,Single house,2,Working adults,2,Lunch & dinner,More than three,5kg,11/16/2025,>2 months,Rainy days,Lower,Very often,Rarely,Yes,5 days,Yes
+Rural,Shared housing,2,Elderly/Mixed,>4,Water heating,Twice,12.5kg,12/24/2025,<2 weeks,No change,Slightly higher,Never,Sometimes,Maybe,5 days,Maybe
+Rural,Single house,2,Elderly/Mixed,>4,Full-day cooking,More than three,37.5kg,12/3/2025,<2 weeks,Rainy days,Much higher,Very often,Sometimes,Yes,1 week,Maybe
+Rural,Shared housing,1,Students/Young adults,2,Lunch & dinner,Three times,12.5kg,12/27/2025,<2 weeks,No change,Much higher,Sometimes,Rarely,Yes,5 days,Yes
+Rural,Shared housing,5+,Elderly/Mixed,2,Water heating,Once,Not sure,12/21/2025,>2 months,No change,Same,Rarely,Sometimes,No,5 days,Yes
+Urban,Apartment,5+,Elderly/Mixed,<1,Full-day cooking,Once,12.5kg,11/7/2025,5 - 2 months,Rainy days,Same,Rarely,Rarely,Maybe,3 days,Maybe
+Urban,Single house,2,Students/Young adults,>4,Water heating,Once,5kg,12/26/2025,1-2 months ,Cold days,Lower,Never,Rarely,Maybe,1 week,Maybe
+Urban,Single house,5+,Students/Young adults,4,Full-day cooking,More than three,5kg,1/1/2026,1 - 2 months,Rainy days,Slightly higher,Rarely,Rarely,Yes,3 days,Yes
+Rural,Apartment,2,Students/Young adults,>4,Lunch & dinner,More than three,5kg,11/9/2025,4 - 2 months,Cold days,Same,Sometimes,Never,Maybe,1 week,Maybe
+Rural,Single house,4,Students/Young adults,<1,Water heating,Twice,5kg,11/16/2025,2 - 4 weeks,Rainy days,Lower,Rarely,Sometimes,No,3 days,No
+Urban,Shared housing,1,Students/Young adults,2,Lunch & dinner,Three times,Not sure,1/2/2026,2 - 4 weeks,Rainy days,Slightly higher,Rarely,Rarely,No,1 week,Yes
+Rural,Shared housing,1,Working adults,>4,Breakfast only,More than three,37.5kg,12/22/2025,1-2 months ,Cold days,Lower,Very often,Never,Maybe,1 week,Maybe
+Urban,Apartment,1,Elderly/Mixed,>4,Full-day cooking,Twice,37.5kg,11/26/2025,2 - 4 weeks,No change,Much higher,Rarely,Sometimes,No,1 week,Maybe
+Urban,Apartment,4,Elderly/Mixed,4,Water heating,Three times,Not sure,11/23/2025,>2 months,No change,Slightly higher,Never,Rarely,Yes,1 week,Yes
+Semi-urban,Shared housing,4,Students/Young adults,>4,Lunch & dinner,More than three,5kg,11/20/2025,<2 weeks,Rainy days,Lower,Sometimes,Rarely,No,5 days,Maybe
+Urban,Apartment,5+,Elderly/Mixed,2,Lunch & dinner,More than three,12.5kg,12/29/2025,4 - 2 months,Cold days,Much higher,Never,Rarely,No,1 week,Yes
+Semi-urban,Single house,2,Elderly/Mixed,>4,Home business,Three times,12.5kg,11/8/2025,1-2 months ,Cold days,Lower,Rarely,Rarely,Maybe,1 week,No
+Rural,Single house,2,Students/Young adults,2,Full-day cooking,Three times,37.5kg,12/4/2025,2 - 4 weeks,Cold days,Much higher,Rarely,Rarely,Maybe,5 days,Maybe
+Semi-urban,Apartment,1,Working adults,>4,Home business,Three times,12.5kg,11/11/2025,2 - 2 months,No change,Lower,Sometimes,Yes often,Yes,1 week,No
+Urban,Apartment,5+,Working adults,<1,Water heating,Twice,5kg,12/25/2025,>2 months,No change,Slightly higher,Never,Never,Maybe,5 days,Yes
+Rural,Single house,4,Students/Young adults,4,Full-day cooking,Twice,37.5kg,11/7/2025,1-2 months ,No change,Same,Sometimes,Sometimes,Maybe,5 days,Maybe
+Urban,Single house,2,Elderly/Mixed,2,Full-day cooking,More than three,37.5kg,12/16/2025,3 - 2 months,Rainy days,Same,Very often,Rarely,Maybe,5 days,No
+Urban,Single house,4,Students/Young adults,>4,Home business,Twice,12.5kg,12/9/2025,2 - 4 weeks,Cold days,Same,Very often,Sometimes,Yes,5 days,Maybe
+Semi-urban,Apartment,4,Elderly/Mixed,4,Home business,Once,5kg,12/29/2025,>2 months,Rainy days,Slightly higher,Sometimes,Never,Yes,1 week,No
+Semi-urban,Shared housing,5+,Working adults,<1,Lunch & dinner,More than three,Not sure,11/18/2025,>2 months,Rainy days,Lower,Sometimes,Rarely,Yes,1 week,Yes
+Rural,Single house,5+,Working adults,4,Breakfast only,Twice,Not sure,12/2/2025,1-2 months ,No change,Much higher,Sometimes,Sometimes,Yes,1 week,Maybe
+Urban,Single house,5+,Students/Young adults,2,Water heating,More than three,Not sure,11/16/2025,2 - 4 weeks,Cold days,Same,Rarely,Yes often,Yes,1 week,Maybe
+Urban,Shared housing,4,Students/Young adults,4,Water heating,Three times,12.5kg,1/1/2026,<2 weeks,Cold days,Lower,Very often,Sometimes,Maybe,1 week,No
+Semi-urban,Shared housing,4,Students/Young adults,>4,Full-day cooking,Twice,12.5kg,12/30/2025,4 - 2 months,No change,Same,Rarely,Yes often,Yes,3 days,Yes
+Urban,Shared housing,5+,Students/Young adults,2,Water heating,More than three,Not sure,11/11/2025,>2 months,No change,Lower,Sometimes,Rarely,No,3 days,Yes
+Rural,Shared housing,5+,Working adults,>4,Full-day cooking,Twice,5kg,12/8/2025,>2 months,Rainy days,Slightly higher,Rarely,Yes often,Yes,3 days,No
+Rural,Shared housing,4,Students/Young adults,<1,Lunch & dinner,More than three,12.5kg,12/9/2025,<2 weeks,Rainy days,Same,Rarely,Rarely,Yes,1 week,No
+Semi-urban,Apartment,2,Students/Young adults,4,Breakfast only,Once,12.5kg,11/29/2025,<2 weeks,Cold days,Much higher,Never,Yes often,Yes,1 week,No
+Urban,Apartment,4,Students/Young adults,>4,Home business,Twice,12.5kg,12/26/2025,2 - 4 weeks,No change,Same,Rarely,Never,Maybe,5 days,Maybe
+Semi-urban,Apartment,1,Working adults,<1,Water heating,Twice,Not sure,12/14/2025,1-2 months ,Rainy days,Much higher,Rarely,Sometimes,Yes,5 days,Maybe
+Rural,Shared housing,4,Working adults,2,Water heating,More than three,5kg,12/22/2025,2 - 4 weeks,Rainy days,Lower,Very often,Sometimes,Yes,5 days,Maybe
+Urban,Apartment,5+,Students/Young adults,<1,Home business,Once,Not sure,12/6/2025,2 - 4 weeks,No change,Lower,Never,Sometimes,No,5 days,Yes
+Semi-urban,Single house,2,Students/Young adults,2,Water heating,Once,Not sure,12/31/2025,5 - 2 months,Cold days,Much higher,Sometimes,Sometimes,Maybe,3 days,Yes
+Semi-urban,Apartment,5+,Elderly/Mixed,4,Home business,Three times,37.5kg,12/17/2025,>2 months,Rainy days,Lower,Never,Sometimes,Yes,1 week,No
+Rural,Apartment,2,Working adults,2,Full-day cooking,Three times,12.5kg,11/27/2025,1-2 months ,No change,Same,Very often,Yes often,Maybe,5 days,Maybe
+Rural,Apartment,5+,Elderly/Mixed,>4,Home business,More than three,12.5kg,11/11/2025,1 - 2 months,No change,Same,Never,Sometimes,No,1 week,Yes
+Semi-urban,Shared housing,4,Working adults,2,Lunch & dinner,Three times,37.5kg,12/31/2025,2 - 4 weeks,Cold days,Slightly higher,Very often,Never,No,3 days,Maybe
+Urban,Single house,4,Elderly/Mixed,>4,Breakfast only,Once,5kg,11/15/2025,2 - 4 weeks,No change,Much higher,Sometimes,Yes often,Yes,1 week,Maybe
+Urban,Shared housing,5+,Working adults,4,Lunch & dinner,More than three,Not sure,12/14/2025,>2 months,Rainy days,Slightly higher,Sometimes,Never,No,5 days,No
+Rural,Apartment,1,Elderly/Mixed,<1,Home business,Three times,5kg,11/7/2025,2 - 2 months,Rainy days,Much higher,Rarely,Yes often,Maybe,1 week,Yes
+Semi-urban,Single house,2,Students/Young adults,<1,Lunch & dinner,Once,12.5kg,11/14/2025,<2 weeks,Cold days,Same,Rarely,Never,No,1 week,No
+Semi-urban,Shared housing,4,Working adults,2,Home business,Once,5kg,12/5/2025,<2 weeks,Cold days,Lower,Rarely,Never,No,5 days,No
+Urban,Apartment,1,Working adults,<1,Water heating,Twice,37.5kg,12/12/2025,>2 months,No change,Lower,Very often,Yes often,No,3 days,Maybe
+Rural,Shared housing,5+,Elderly/Mixed,>4,Water heating,More than three,37.5kg,12/6/2025,2 - 4 weeks,Rainy days,Much higher,Very often,Rarely,No,5 days,No
+Rural,Single house,5+,Students/Young adults,>4,Home business,More than three,37.5kg,11/17/2025,>2 months,No change,Lower,Rarely,Rarely,Maybe,5 days,Yes
+Urban,Shared housing,2,Elderly/Mixed,2,Full-day cooking,Twice,Not sure,12/7/2025,>2 months,No change,Much higher,Sometimes,Sometimes,No,5 days,Yes
+Semi-urban,Single house,4,Working adults,4,Home business,More than three,5kg,12/20/2025,<2 weeks,No change,Much higher,Never,Rarely,Yes,1 week,Maybe
+Semi-urban,Apartment,1,Students/Young adults,4,Full-day cooking,Three times,37.5kg,12/14/2025,2 - 4 weeks,No change,Same,Very often,Sometimes,No,5 days,Yes
+Semi-urban,Single house,5+,Elderly/Mixed,>4,Home business,Once,12.5kg,1/4/2026,2 - 4 weeks,Rainy days,Same,Never,Yes often,No,5 days,No
+Urban,Single house,2,Elderly/Mixed,>4,Home business,Twice,37.5kg,12/7/2025,2 - 4 weeks,Rainy days,Same,Never,Rarely,No,5 days,Maybe
+Urban,Single house,4,Elderly/Mixed,4,Lunch & dinner,Three times,37.5kg,12/20/2025,<2 weeks,No change,Same,Never,Yes often,Maybe,5 days,Yes
+Rural,Shared housing,2,Elderly/Mixed,<1,Full-day cooking,More than three,5kg,12/2/2025,2 - 4 weeks,Rainy days,Lower,Very often,Rarely,Maybe,1 week,Yes
+Semi-urban,Single house,5+,Working adults,2,Full-day cooking,Twice,12.5kg,12/21/2025,<2 weeks,No change,Slightly higher,Sometimes,Sometimes,Yes,3 days,Yes
+Urban,Single house,4,Working adults,<1,Water heating,Twice,37.5kg,12/11/2025,1-2 months ,Rainy days,Same,Very often,Never,Yes,3 days,Maybe
+Urban,Shared housing,4,Students/Young adults,4,Lunch & dinner,Three times,37.5kg,12/7/2025,<2 weeks,Rainy days,Slightly higher,Rarely,Rarely,Maybe,1 week,No
+Rural,Apartment,1,Working adults,4,Home business,Once,5kg,11/9/2025,2 - 4 weeks,Rainy days,Lower,Very often,Never,Yes,1 week,Yes
+Rural,Shared housing,4,Students/Young adults,<1,Breakfast only,Twice,37.5kg,12/29/2025,<2 weeks,Cold days,Much higher,Rarely,Yes often,Maybe,3 days,No
+Urban,Shared housing,4,Elderly/Mixed,>4,Lunch & dinner,Once,Not sure,12/23/2025,3 - 2 months,Cold days,Slightly higher,Rarely,Yes often,No,5 days,Maybe
+Rural,Shared housing,4,Students/Young adults,4,Full-day cooking,Three times,Not sure,12/10/2025,<2 weeks,Rainy days,Same,Sometimes,Rarely,Yes,1 week,No
+Semi-urban,Apartment,2,Working adults,4,Full-day cooking,Three times,12.5kg,12/3/2025,<2 weeks,Cold days,Much higher,Never,Never,No,5 days,No
+Urban,Single house,2,Working adults,2,Lunch & dinner,More than three,37.5kg,11/8/2025,1-2 months ,Rainy days,Same,Very often,Rarely,No,1 week,No
+Urban,Single house,2,Elderly/Mixed,4,Breakfast only,Three times,37.5kg,12/28/2025,>2 months,Cold days,Same,Rarely,Sometimes,Yes,5 days,No
+Rural,Apartment,1,Elderly/Mixed,>4,Lunch & dinner,More than three,12.5kg,11/9/2025,>2 months,Rainy days,Slightly higher,Rarely,Rarely,Maybe,3 days,No
+Rural,Shared housing,4,Elderly/Mixed,<1,Full-day cooking,Once,37.5kg,12/5/2025,<2 weeks,No change,Same,Very often,Yes often,No,5 days,No
+Semi-urban,Single house,1,Students/Young adults,<1,Water heating,Once,12.5kg,11/8/2025,>2 months,No change,Lower,Rarely,Rarely,Yes,3 days,No
+Rural,Single house,4,Working adults,2,Home business,Twice,12.5kg,12/14/2025,2 - 4 weeks,Rainy days,Much higher,Never,Never,Yes,1 week,Yes
+Semi-urban,Shared housing,5+,Working adults,<1,Lunch & dinner,More than three,Not sure,12/17/2025,>2 months,Rainy days,Slightly higher,Very often,Sometimes,Yes,5 days,Maybe
+Semi-urban,Single house,2,Students/Young adults,<1,Home business,Once,37.5kg,1/1/2026,<2 weeks,No change,Same,Never,Never,No,3 days,Maybe
+Rural,Single house,1,Working adults,<1,Water heating,More than three,Not sure,12/27/2025,2 - 4 weeks,No change,Slightly higher,Very often,Sometimes,Maybe,5 days,Maybe
+Urban,Single house,2,Students/Young adults,2,Lunch & dinner,Twice,Not sure,12/12/2025,<2 weeks,Rainy days,Lower,Very often,Yes often,No,3 days,Maybe
+Semi-urban,Shared housing,1,Students/Young adults,<1,Lunch & dinner,Three times,Not sure,11/20/2025,2 - 4 weeks,Rainy days,Slightly higher,Very often,Rarely,Yes,3 days,Yes
+Urban,Apartment,5+,Working adults,4,Water heating,More than three,12.5kg,12/26/2025,<2 weeks,Rainy days,Lower,Rarely,Yes often,No,3 days,Yes
+Semi-urban,Single house,5+,Elderly/Mixed,>4,Full-day cooking,Three times,5kg,11/28/2025,>2 months,Rainy days,Lower,Rarely,Yes often,Yes,3 days,Maybe
+Rural,Single house,2,Elderly/Mixed,2,Breakfast only,Twice,Not sure,11/27/2025,<2 weeks,No change,Lower,Rarely,Never,Maybe,5 days,Yes
+Semi-urban,Single house,2,Elderly/Mixed,<1,Water heating,Three times,37.5kg,11/10/2025,4 - 2 months,Cold days,Lower,Sometimes,Never,Yes,5 days,No
+Semi-urban,Shared housing,4,Working adults,>4,Water heating,Twice,37.5kg,12/2/2025,2 - 4 weeks,Cold days,Much higher,Sometimes,Never,Yes,5 days,No
+Rural,Single house,5+,Elderly/Mixed,4,Full-day cooking,Once,37.5kg,12/25/2025,2 - 4 weeks,Cold days,Same,Very often,Rarely,Yes,5 days,Yes
+Semi-urban,Shared housing,4,Students/Young adults,<1,Lunch & dinner,More than three,Not sure,11/19/2025,1-2 months ,Cold days,Much higher,Rarely,Yes often,Yes,3 days,Maybe
+Semi-urban,Single house,2,Students/Young adults,2,Lunch & dinner,Twice,Not sure,12/5/2025,>2 months,Cold days,Same,Sometimes,Rarely,Yes,5 days,Yes
+Urban,Shared housing,4,Students/Young adults,4,Water heating,More than three,12.5kg,11/9/2025,5 - 2 months,No change,Lower,Sometimes,Rarely,No,5 days,Yes
+Semi-urban,Apartment,1,Students/Young adults,<1,Water heating,Three times,12.5kg,1/5/2026,>2 months,Cold days,Slightly higher,Never,Sometimes,No,5 days,No
+Urban,Apartment,1,Students/Young adults,<1,Lunch & dinner,More than three,5kg,12/21/2025,1-2 months ,Rainy days,Lower,Rarely,Sometimes,Maybe,5 days,Maybe
+Semi-urban,Shared housing,5+,Students/Young adults,<1,Full-day cooking,Twice,12.5kg,11/25/2025,>2 months,Cold days,Much higher,Sometimes,Never,Maybe,1 week,Yes
+Rural,Shared housing,2,Elderly/Mixed,<1,Breakfast only,Three times,5kg,11/13/2025,<2 weeks,No change,Slightly higher,Very often,Yes often,No,3 days,Yes
+Rural,Single house,2,Working adults,4,Water heating,Twice,Not sure,11/26/2025,2 - 4 weeks,Rainy days,Lower,Rarely,Never,Maybe,3 days,No
+Rural,Single house,5+,Working adults,>4,Breakfast only,Three times,Not sure,11/11/2025,>2 months,Rainy days,Slightly higher,Never,Never,No,3 days,No
+Semi-urban,Shared housing,4,Students/Young adults,<1,Water heating,Twice,12.5kg,12/31/2025,2 - 4 weeks,Cold days,Slightly higher,Very often,Sometimes,No,1 week,Yes
+Semi-urban,Shared housing,2,Students/Young adults,>4,Full-day cooking,Once,12.5kg,11/22/2025,<2 weeks,No change,Slightly higher,Very often,Never,No,1 week,Yes
+Rural,Shared housing,1,Students/Young adults,<1,Water heating,Three times,Not sure,11/26/2025,<2 weeks,Cold days,Much higher,Sometimes,Never,No,3 days,No
+Urban,Apartment,5+,Working adults,<1,Breakfast only,Three times,Not sure,11/25/2025,>2 months,Cold days,Much higher,Very often,Sometimes,Maybe,1 week,Maybe
+Urban,Shared housing,5+,Students/Young adults,>4,Water heating,Three times,12.5kg,11/18/2025,1 - 2 months,Rainy days,Much higher,Very often,Yes often,Yes,5 days,Maybe
+Urban,Single house,2,Students/Young adults,4,Home business,Three times,37.5kg,12/12/2025,>2 months,Rainy days,Slightly higher,Very often,Yes often,No,1 week,Maybe
+Rural,Shared housing,2,Elderly/Mixed,<1,Breakfast only,More than three,12.5kg,12/28/2025,2 - 4 weeks,Rainy days,Same,Rarely,Rarely,No,5 days,Maybe
+Rural,Single house,2,Students/Young adults,<1,Lunch & dinner,More than three,5kg,12/18/2025,4 - 2 months,Cold days,Much higher,Very often,Yes often,Yes,5 days,No
+Urban,Shared housing,1,Students/Young adults,>4,Full-day cooking,Once,37.5kg,11/27/2025,1-2 months ,No change,Slightly higher,Never,Never,Yes,5 days,Maybe
+Rural,Apartment,2,Students/Young adults,>4,Full-day cooking,More than three,5kg,12/4/2025,<2 weeks,Cold days,Lower,Sometimes,Never,No,5 days,Maybe
+Rural,Shared housing,2,Elderly/Mixed,>4,Breakfast only,Twice,37.5kg,11/24/2025,>2 months,Cold days,Lower,Rarely,Rarely,Maybe,1 week,Yes
+Semi-urban,Shared housing,1,Elderly/Mixed,2,Lunch & dinner,More than three,5kg,12/26/2025,>2 months,No change,Much higher,Rarely,Never,Yes,1 week,Maybe
+Semi-urban,Single house,5+,Students/Young adults,>4,Breakfast only,More than three,Not sure,11/7/2025,<2 weeks,Cold days,Lower,Never,Never,Maybe,3 days,Yes
+Semi-urban,Shared housing,1,Elderly/Mixed,2,Full-day cooking,Twice,37.5kg,12/1/2025,>2 months,No change,Slightly higher,Never,Rarely,Maybe,1 week,No
+Semi-urban,Shared housing,2,Working adults,2,Full-day cooking,Twice,Not sure,12/5/2025,4 - 2 months,Cold days,Much higher,Very often,Never,No,3 days,No
+Rural,Shared housing,5+,Working adults,4,Home business,Twice,5kg,11/14/2025,>2 months,No change,Same,Rarely,Rarely,Yes,5 days,No
+Semi-urban,Apartment,5+,Students/Young adults,<1,Lunch & dinner,Twice,Not sure,12/31/2025,1-2 months ,No change,Lower,Rarely,Yes often,No,1 week,Yes
+Urban,Apartment,5+,Working adults,<1,Home business,Once,Not sure,12/6/2025,<2 weeks,Rainy days,Much higher,Never,Never,Yes,1 week,Maybe
+Semi-urban,Single house,2,Elderly/Mixed,>4,Breakfast only,Twice,Not sure,12/13/2025,2 - 4 weeks,Cold days,Same,Sometimes,Yes often,No,5 days,Yes
+Rural,Shared housing,5+,Working adults,2,Full-day cooking,Twice,37.5kg,11/19/2025,2 - 2 months,No change,Slightly higher,Sometimes,Rarely,Yes,5 days,Maybe
+Rural,Single house,5+,Elderly/Mixed,>4,Breakfast only,Twice,Not sure,12/6/2025,2 - 4 weeks,Rainy days,Lower,Rarely,Sometimes,Yes,1 week,No
+Urban,Single house,1,Students/Young adults,2,Breakfast only,Once,37.5kg,11/21/2025,<2 weeks,Cold days,Lower,Sometimes,Rarely,Maybe,1 week,Yes
+Rural,Single house,4,Working adults,2,Breakfast only,Twice,Not sure,12/3/2025,>2 months,Cold days,Much higher,Very often,Sometimes,No,3 days,No
+Semi-urban,Shared housing,5+,Students/Young adults,>4,Home business,Twice,37.5kg,11/25/2025,1-2 months ,Rainy days,Slightly higher,Very often,Rarely,Yes,5 days,Yes
+Semi-urban,Single house,1,Working adults,4,Breakfast only,Once,Not sure,12/14/2025,2 - 4 weeks,No change,Same,Sometimes,Yes often,Maybe,3 days,No
+Rural,Apartment,5+,Students/Young adults,2,Home business,Three times,5kg,12/7/2025,>2 months,No change,Lower,Very often,Sometimes,Maybe,3 days,Maybe
+Rural,Apartment,2,Students/Young adults,>4,Water heating,Once,37.5kg,12/23/2025,3 - 2 months,No change,Same,Sometimes,Yes often,Yes,3 days,Maybe
+Rural,Shared housing,1,Elderly/Mixed,>4,Water heating,Three times,Not sure,12/7/2025,<2 weeks,No change,Same,Never,Rarely,Maybe,5 days,Yes
+Semi-urban,Single house,5+,Students/Young adults,<1,Water heating,Once,12.5kg,12/4/2025,>2 months,Cold days,Much higher,Very often,Never,Maybe,3 days,Maybe
+Urban,Shared housing,4,Elderly/Mixed,<1,Lunch & dinner,More than three,5kg,11/17/2025,<2 weeks,Rainy days,Much higher,Sometimes,Sometimes,Yes,3 days,No
+Urban,Single house,5+,Working adults,4,Home business,Three times,Not sure,12/22/2025,1-2 months ,No change,Slightly higher,Rarely,Yes often,Maybe,5 days,Maybe
+Urban,Apartment,4,Students/Young adults,4,Breakfast only,Once,12.5kg,12/26/2025,4 - 2 months,No change,Slightly higher,Never,Never,No,3 days,No
+Rural,Apartment,4,Elderly/Mixed,>4,Water heating,Twice,12.5kg,11/13/2025,>2 months,Rainy days,Lower,Very often,Yes often,Yes,5 days,Yes
+Urban,Shared housing,2,Students/Young adults,2,Breakfast only,Three times,37.5kg,12/11/2025,2 - 4 weeks,Rainy days,Much higher,Very often,Sometimes,No,5 days,No
+Urban,Shared housing,4,Working adults,2,Full-day cooking,Once,5kg,11/16/2025,1-2 months ,Rainy days,Same,Sometimes,Never,No,1 week,No
+Urban,Shared housing,4,Students/Young adults,2,Lunch & dinner,Twice,37.5kg,11/22/2025,<2 weeks,No change,Lower,Rarely,Never,Yes,1 week,Yes
+Urban,Single house,4,Students/Young adults,<1,Breakfast only,Once,12.5kg,11/12/2025,5 - 2 months,No change,Same,Sometimes,Yes often,No,3 days,No
+Rural,Shared housing,4,Students/Young adults,2,Breakfast only,Three times,37.5kg,12/25/2025,2 - 4 weeks,Rainy days,Lower,Very often,Sometimes,Yes,1 week,Yes
+Rural,Apartment,4,Elderly/Mixed,<1,Lunch & dinner,More than three,5kg,11/21/2025,2 - 4 weeks,No change,Much higher,Never,Never,Maybe,3 days,No
+Urban,Apartment,2,Students/Young adults,>4,Lunch & dinner,Twice,Not sure,12/8/2025,2 - 4 weeks,Rainy days,Slightly higher,Sometimes,Sometimes,Maybe,3 days,Maybe
+Urban,Shared housing,4,Elderly/Mixed,<1,Home business,Twice,5kg,12/22/2025,1-2 months ,No change,Same,Never,Rarely,Maybe,5 days,Yes
+Semi-urban,Apartment,1,Elderly/Mixed,4,Full-day cooking,Once,Not sure,11/24/2025,2 - 2 months,Cold days,Slightly higher,Never,Yes often,Maybe,5 days,Yes
+Rural,Apartment,5+,Students/Young adults,2,Breakfast only,Once,37.5kg,11/28/2025,<2 weeks,Cold days,Slightly higher,Sometimes,Never,Maybe,1 week,Maybe
+Semi-urban,Apartment,4,Students/Young adults,4,Breakfast only,More than three,37.5kg,11/12/2025,>2 months,Cold days,Much higher,Very often,Sometimes,Maybe,5 days,No
+Rural,Single house,5+,Elderly/Mixed,4,Breakfast only,More than three,Not sure,12/29/2025,2 - 4 weeks,Cold days,Much higher,Never,Never,Yes,1 week,Maybe
+Semi-urban,Shared housing,1,Elderly/Mixed,2,Lunch & dinner,More than three,Not sure,11/29/2025,2 - 4 weeks,Cold days,Slightly higher,Very often,Sometimes,Maybe,3 days,No
+Urban,Single house,4,Working adults,4,Full-day cooking,More than three,37.5kg,12/25/2025,>2 months,Rainy days,Lower,Rarely,Never,Maybe,5 days,Yes
+Urban,Single house,4,Students/Young adults,2,Water heating,Three times,5kg,12/18/2025,>2 months,No change,Much higher,Never,Sometimes,No,5 days,Yes
+Rural,Single house,5+,Elderly/Mixed,>4,Home business,Once,Not sure,11/13/2025,2 - 4 weeks,Rainy days,Lower,Never,Never,Maybe,5 days,Maybe
+Urban,Single house,1,Elderly/Mixed,<1,Home business,Three times,37.5kg,11/23/2025,2 - 4 weeks,No change,Lower,Very often,Rarely,No,3 days,No
+Semi-urban,Shared housing,4,Working adults,>4,Lunch & dinner,Three times,37.5kg,11/28/2025,<2 weeks,Cold days,Lower,Sometimes,Sometimes,No,1 week,Maybe
+Semi-urban,Apartment,5+,Working adults,<1,Full-day cooking,Once,Not sure,11/20/2025,1-2 months ,Cold days,Same,Never,Yes often,Yes,1 week,No
+Urban,Single house,4,Working adults,<1,Full-day cooking,More than three,5kg,11/10/2025,<2 weeks,Cold days,Much higher,Never,Rarely,No,1 week,No
+Semi-urban,Shared housing,2,Students/Young adults,2,Full-day cooking,Once,Not sure,11/7/2025,>2 months,Cold days,Much higher,Never,Rarely,Yes,1 week,No
+Semi-urban,Single house,1,Working adults,<1,Breakfast only,Once,37.5kg,12/5/2025,<2 weeks,Rainy days,Slightly higher,Never,Sometimes,Maybe,5 days,No
+Semi-urban,Single house,2,Students/Young adults,2,Water heating,Once,37.5kg,12/16/2025,2 - 4 weeks,Cold days,Slightly higher,Rarely,Yes often,Yes,3 days,No
+Semi-urban,Apartment,1,Working adults,4,Lunch & dinner,Once,Not sure,12/14/2025,2 - 4 weeks,Rainy days,Same,Never,Never,Maybe,1 week,Maybe
+Semi-urban,Single house,2,Working adults,4,Water heating,Once,5kg,12/26/2025,>2 months,Cold days,Much higher,Sometimes,Yes often,Yes,3 days,No
+Semi-urban,Single house,2,Elderly/Mixed,2,Full-day cooking,Once,Not sure,12/15/2025,>2 months,Rainy days,Slightly higher,Sometimes,Yes often,Yes,5 days,No
+Semi-urban,Apartment,2,Working adults,4,Home business,Twice,37.5kg,11/14/2025,2 - 4 weeks,Rainy days,Same,Rarely,Sometimes,No,3 days,No
+Rural,Single house,5+,Elderly/Mixed,4,Water heating,Once,37.5kg,12/14/2025,<2 weeks,No change,Slightly higher,Rarely,Sometimes,No,3 days,Maybe
+Semi-urban,Shared housing,2,Students/Young adults,>4,Water heating,More than three,12.5kg,12/31/2025,2 - 4 weeks,No change,Lower,Sometimes,Rarely,No,1 week,Maybe
+Rural,Single house,1,Elderly/Mixed,<1,Lunch & dinner,More than three,12.5kg,11/25/2025,3 - 2 months,Rainy days,Same,Sometimes,Never,Maybe,1 week,Yes
+Rural,Single house,4,Working adults,<1,Water heating,Three times,37.5kg,12/14/2025,<2 weeks,Rainy days,Lower,Rarely,Yes often,Yes,3 days,Maybe
+Urban,Single house,4,Elderly/Mixed,4,Home business,Once,5kg,12/22/2025,<2 weeks,Rainy days,Same,Rarely,Yes often,Maybe,3 days,Yes
+Rural,Single house,5+,Elderly/Mixed,4,Home business,Once,37.5kg,11/15/2025,>2 months,Rainy days,Slightly higher,Very often,Yes often,Yes,1 week,Yes
+Semi-urban,Apartment,2,Elderly/Mixed,4,Full-day cooking,More than three,Not sure,11/16/2025,<2 weeks,No change,Slightly higher,Very often,Sometimes,No,5 days,Maybe
+Rural,Shared housing,2,Elderly/Mixed,4,Home business,More than three,12.5kg,12/8/2025,1-2 months ,Cold days,Slightly higher,Never,Rarely,Maybe,3 days,No
+Urban,Shared housing,2,Students/Young adults,4,Full-day cooking,Once,37.5kg,11/7/2025,<2 weeks,No change,Lower,Sometimes,Sometimes,No,1 week,Maybe
+Semi-urban,Apartment,1,Students/Young adults,>4,Full-day cooking,Twice,Not sure,11/12/2025,2 - 4 weeks,Rainy days,Slightly higher,Never,Sometimes,Yes,5 days,No
+Urban,Apartment,1,Students/Young adults,<1,Home business,Twice,37.5kg,12/17/2025,<2 weeks,No change,Much higher,Sometimes,Sometimes,No,1 week,No
+Urban,Shared housing,5+,Working adults,>4,Full-day cooking,Three times,37.5kg,1/4/2026,4 - 2 months,No change,Lower,Rarely,Rarely,Yes,3 days,Yes
+Rural,Shared housing,5+,Working adults,4,Home business,Once,Not sure,11/26/2025,2 - 4 weeks,No change,Much higher,Very often,Rarely,No,3 days,Yes
+Semi-urban,Single house,4,Students/Young adults,2,Home business,Three times,12.5kg,11/18/2025,1-2 months ,Cold days,Much higher,Rarely,Sometimes,No,5 days,Yes
+Semi-urban,Single house,2,Elderly/Mixed,2,Home business,Twice,Not sure,11/19/2025,5 - 2 months,Cold days,Much higher,Rarely,Never,No,1 week,Yes
+Rural,Single house,4,Working adults,<1,Breakfast only,Once,12.5kg,1/5/2026,<2 weeks,Rainy days,Lower,Never,Yes often,Maybe,3 days,No
+Rural,Shared housing,5+,Working adults,>4,Home business,Once,Not sure,11/7/2025,<2 weeks,No change,Lower,Never,Rarely,No,3 days,Maybe
+Semi-urban,Apartment,4,Students/Young adults,<1,Water heating,Three times,Not sure,11/16/2025,>2 months,Cold days,Slightly higher,Never,Sometimes,No,3 days,No
+Urban,Shared housing,1,Working adults,4,Breakfast only,More than three,Not sure,11/22/2025,2 - 4 weeks,Rainy days,Much higher,Never,Rarely,Yes,5 days,Yes
+Rural,Single house,4,Students/Young adults,<1,Home business,Three times,5kg,11/24/2025,>2 months,Cold days,Slightly higher,Very often,Yes often,Yes,1 week,Yes
+Urban,Apartment,2,Students/Young adults,<1,Water heating,Once,12.5kg,1/2/2026,1-2 months ,Cold days,Lower,Rarely,Yes often,Maybe,3 days,Yes
+Semi-urban,Apartment,1,Students/Young adults,2,Water heating,More than three,12.5kg,11/23/2025,<2 weeks,No change,Lower,Very often,Rarely,No,5 days,No
+Urban,Apartment,5+,Working adults,>4,Water heating,Three times,Not sure,12/1/2025,>2 months,Cold days,Same,Very often,Never,No,1 week,No
+Semi-urban,Apartment,1,Elderly/Mixed,2,Lunch & dinner,Once,5kg,12/18/2025,2 - 4 weeks,No change,Lower,Rarely,Rarely,Yes,1 week,No
+Urban,Single house,2,Students/Young adults,<1,Full-day cooking,Twice,37.5kg,12/21/2025,1 - 2 months,No change,Lower,Never,Yes often,No,3 days,Maybe
+Semi-urban,Shared housing,2,Elderly/Mixed,>4,Water heating,More than three,5kg,1/2/2026,2 - 4 weeks,No change,Much higher,Sometimes,Yes often,Maybe,3 days,Yes
+Semi-urban,Shared housing,4,Working adults,<1,Water heating,Once,5kg,11/10/2025,4 - 2 months,Rainy days,Same,Rarely,Yes often,No,5 days,Maybe
+Urban,Shared housing,5+,Elderly/Mixed,4,Home business,Three times,12.5kg,11/23/2025,2 - 4 weeks,Cold days,Lower,Never,Sometimes,Yes,5 days,No
+Urban,Apartment,5+,Students/Young adults,>4,Breakfast only,Three times,Not sure,12/3/2025,1-2 months ,No change,Lower,Rarely,Yes often,No,3 days,Maybe
+Urban,Apartment,5+,Students/Young adults,>4,Home business,Once,37.5kg,11/28/2025,<2 weeks,No change,Same,Rarely,Sometimes,Maybe,3 days,No
+Urban,Apartment,4,Elderly/Mixed,4,Water heating,Twice,Not sure,1/4/2026,4 - 2 months,Rainy days,Same,Never,Never,No,5 days,Yes
+Semi-urban,Shared housing,2,Students/Young adults,2,Breakfast only,Twice,37.5kg,11/22/2025,>2 months,Cold days,Same,Rarely,Rarely,Maybe,5 days,Maybe
+Urban,Shared housing,4,Students/Young adults,4,Full-day cooking,More than three,37.5kg,12/13/2025,>2 months,Rainy days,Much higher,Sometimes,Sometimes,Maybe,5 days,Maybe
+Urban,Shared housing,4,Working adults,>4,Water heating,Three times,5kg,12/13/2025,>2 months,No change,Same,Never,Yes often,Maybe,1 week,Maybe
+Urban,Shared housing,5+,Students/Young adults,2,Lunch & dinner,Once,12.5kg,12/17/2025,>2 months,Rainy days,Lower,Very often,Rarely,Yes,1 week,Yes
+Semi-urban,Single house,2,Working adults,<1,Home business,Once,12.5kg,12/5/2025,<2 weeks,Cold days,Slightly higher,Rarely,Sometimes,Yes,5 days,No
+Urban,Shared housing,1,Students/Young adults,4,Water heating,Once,Not sure,11/18/2025,>2 months,Rainy days,Much higher,Sometimes,Sometimes,Maybe,5 days,Yes
+Rural,Shared housing,4,Elderly/Mixed,4,Breakfast only,More than three,12.5kg,11/27/2025,<2 weeks,No change,Slightly higher,Very often,Yes often,No,1 week,No
+Urban,Apartment,5+,Elderly/Mixed,2,Lunch & dinner,Twice,Not sure,11/17/2025,>2 months,Cold days,Much higher,Rarely,Yes often,No,3 days,Yes
+Semi-urban,Single house,5+,Working adults,2,Water heating,More than three,Not sure,1/5/2026,2 - 4 weeks,No change,Slightly higher,Very often,Never,Maybe,3 days,No
+Urban,Shared housing,4,Elderly/Mixed,<1,Full-day cooking,Once,37.5kg,1/4/2026,>2 months,Cold days,Slightly higher,Very often,Never,Yes,1 week,Yes
+Rural,Shared housing,5+,Elderly/Mixed,4,Water heating,Twice,5kg,11/14/2025,2 - 4 weeks,No change,Much higher,Never,Rarely,No,1 week,Yes
+Semi-urban,Single house,5+,Working adults,>4,Lunch & dinner,Twice,12.5kg,11/9/2025,2 - 2 months,Rainy days,Slightly higher,Very often,Rarely,Yes,1 week,Maybe
+Urban,Shared housing,4,Students/Young adults,<1,Breakfast only,Once,Not sure,11/11/2025,1-2 months ,Rainy days,Lower,Very often,Never,Maybe,5 days,Yes
+Rural,Shared housing,2,Working adults,2,Lunch & dinner,Once,37.5kg,11/17/2025,<2 weeks,Cold days,Same,Never,Yes often,Maybe,1 week,No
+Rural,Apartment,5+,Working adults,<1,Lunch & dinner,Twice,5kg,11/11/2025,3 - 2 months,No change,Same,Rarely,Yes often,No,1 week,Yes
+Semi-urban,Shared housing,2,Working adults,2,Lunch & dinner,Once,37.5kg,12/10/2025,2 - 4 weeks,Cold days,Much higher,Very often,Sometimes,No,3 days,Maybe
+Semi-urban,Apartment,1,Elderly/Mixed,>4,Home business,More than three,Not sure,11/22/2025,>2 months,Cold days,Lower,Very often,Sometimes,Yes,3 days,No
+Urban,Apartment,1,Students/Young adults,2,Full-day cooking,Three times,5kg,1/1/2026,2 - 4 weeks,No change,Same,Sometimes,Sometimes,Maybe,1 week,Yes
+Semi-urban,Single house,5+,Working adults,4,Water heating,More than three,Not sure,12/2/2025,<2 weeks,No change,Slightly higher,Very often,Never,Maybe,1 week,Maybe
+Semi-urban,Apartment,2,Students/Young adults,<1,Full-day cooking,Twice,12.5kg,11/11/2025,2 - 4 weeks,Cold days,Same,Never,Yes often,Maybe,3 days,Maybe
+Urban,Shared housing,4,Elderly/Mixed,>4,Water heating,Twice,12.5kg,11/26/2025,<2 weeks,Rainy days,Lower,Very often,Sometimes,Maybe,1 week,Yes
+Semi-urban,Single house,2,Elderly/Mixed,<1,Lunch & dinner,Three times,Not sure,12/2/2025,>2 months,Rainy days,Lower,Rarely,Rarely,No,1 week,No
+Semi-urban,Single house,5+,Working adults,>4,Full-day cooking,Three times,12.5kg,11/8/2025,>2 months,Cold days,Much higher,Sometimes,Yes often,Maybe,3 days,Maybe
+Rural,Single house,4,Students/Young adults,<1,Breakfast only,Once,Not sure,12/9/2025,1-2 months ,Rainy days,Slightly higher,Rarely,Yes often,Maybe,1 week,Yes
+Rural,Single house,2,Elderly/Mixed,4,Full-day cooking,More than three,Not sure,11/19/2025,<2 weeks,Rainy days,Same,Rarely,Never,No,5 days,Maybe
+Urban,Single house,4,Working adults,<1,Home business,Three times,Not sure,11/15/2025,4 - 2 months,Rainy days,Much higher,Never,Rarely,Yes,3 days,Maybe
+Rural,Single house,5+,Working adults,>4,Water heating,Once,37.5kg,11/14/2025,2 - 4 weeks,No change,Much higher,Rarely,Never,Yes,5 days,Yes
+Semi-urban,Shared housing,4,Students/Young adults,<1,Full-day cooking,Twice,5kg,11/22/2025,2 - 4 weeks,Cold days,Lower,Never,Yes often,No,5 days,Maybe
+Semi-urban,Single house,1,Students/Young adults,>4,Breakfast only,More than three,Not sure,11/14/2025,1-2 months ,Cold days,Same,Rarely,Rarely,Yes,3 days,Yes
+Semi-urban,Single house,2,Elderly/Mixed,2,Breakfast only,Once,12.5kg,12/24/2025,>2 months,Cold days,Same,Very often,Sometimes,Maybe,1 week,Maybe
+Urban,Single house,5+,Working adults,2,Lunch & dinner,Once,37.5kg,12/10/2025,>2 months,Cold days,Much higher,Very often,Rarely,No,1 week,No
+Rural,Apartment,5+,Working adults,>4,Home business,Twice,5kg,12/4/2025,>2 months,No change,Lower,Sometimes,Rarely,Maybe,5 days,Maybe
+Urban,Shared housing,4,Students/Young adults,>4,Breakfast only,Twice,37.5kg,11/16/2025,2 - 4 weeks,Cold days,Lower,Very often,Never,Yes,3 days,Yes
+Semi-urban,Apartment,4,Working adults,>4,Breakfast only,Twice,5kg,1/5/2026,5 - 2 months,Rainy days,Lower,Never,Rarely,No,3 days,Yes
+Rural,Shared housing,2,Students/Young adults,2,Lunch & dinner,Three times,5kg,12/28/2025,<2 weeks,Rainy days,Lower,Sometimes,Rarely,Yes,3 days,Maybe
+Urban,Single house,2,Students/Young adults,>4,Full-day cooking,Three times,12.5kg,11/9/2025,>2 months,Cold days,Much higher,Never,Sometimes,Maybe,5 days,No
+Rural,Single house,1,Students/Young adults,<1,Lunch & dinner,Once,37.5kg,12/3/2025,<2 weeks,Rainy days,Lower,Rarely,Rarely,Yes,5 days,No
+Semi-urban,Single house,2,Students/Young adults,4,Full-day cooking,More than three,37.5kg,12/19/2025,1-2 months ,No change,Same,Sometimes,Never,No,3 days,Yes
+Urban,Apartment,2,Elderly/Mixed,2,Lunch & dinner,Three times,37.5kg,12/12/2025,2 - 4 weeks,Cold days,Same,Very often,Sometimes,Yes,5 days,Maybe
+Semi-urban,Shared housing,4,Students/Young adults,<1,Full-day cooking,Twice,5kg,12/16/2025,>2 months,Rainy days,Slightly higher,Very often,Never,Maybe,3 days,Maybe
+Rural,Single house,1,Elderly/Mixed,>4,Water heating,Twice,12.5kg,1/3/2026,1 - 2 months,Rainy days,Much higher,Sometimes,Never,Yes,3 days,Yes
+Semi-urban,Single house,5+,Students/Young adults,4,Lunch & dinner,More than three,5kg,11/13/2025,>2 months,No change,Slightly higher,Sometimes,Sometimes,Maybe,1 week,Maybe
+Semi-urban,Apartment,4,Students/Young adults,<1,Full-day cooking,Three times,37.5kg,12/26/2025,2 - 4 weeks,No change,Slightly higher,Never,Yes often,No,1 week,Yes
+Rural,Single house,2,Students/Young adults,4,Breakfast only,Three times,Not sure,12/15/2025,4 - 2 months,Rainy days,Much higher,Never,Rarely,Yes,3 days,Yes
+Semi-urban,Single house,1,Working adults,>4,Home business,Twice,5kg,11/14/2025,1-2 months ,Rainy days,Lower,Sometimes,Yes often,Yes,3 days,Maybe
+Rural,Single house,2,Working adults,4,Water heating,More than three,Not sure,12/12/2025,<2 weeks,No change,Much higher,Sometimes,Yes often,No,1 week,Maybe
+Semi-urban,Apartment,5+,Students/Young adults,<1,Breakfast only,Once,37.5kg,12/16/2025,>2 months,No change,Same,Never,Never,No,3 days,No
+Semi-urban,Single house,2,Elderly/Mixed,<1,Full-day cooking,Twice,Not sure,11/22/2025,2 - 2 months,Rainy days,Much higher,Sometimes,Yes often,No,3 days,Yes
+Semi-urban,Apartment,2,Elderly/Mixed,<1,Home business,More than three,12.5kg,12/23/2025,>2 months,Rainy days,Much higher,Never,Yes often,No,1 week,Maybe
+Urban,Shared housing,4,Students/Young adults,<1,Lunch & dinner,More than three,5kg,12/30/2025,1-2 months ,No change,Lower,Sometimes,Sometimes,Yes,5 days,Maybe
+Urban,Shared housing,4,Working adults,2,Breakfast only,Twice,5kg,12/8/2025,>2 months,No change,Lower,Never,Never,No,3 days,Maybe
+Rural,Shared housing,1,Students/Young adults,<1,Water heating,Once,37.5kg,11/11/2025,<2 weeks,No change,Same,Rarely,Sometimes,Yes,5 days,No
+Rural,Shared housing,1,Students/Young adults,<1,Full-day cooking,Twice,37.5kg,12/1/2025,>2 months,No change,Same,Rarely,Sometimes,Maybe,3 days,No
+Semi-urban,Shared housing,5+,Students/Young adults,<1,Water heating,More than three,5kg,11/9/2025,2 - 4 weeks,No change,Lower,Rarely,Sometimes,Maybe,1 week,No
+Rural,Shared housing,1,Elderly/Mixed,2,Full-day cooking,More than three,12.5kg,12/16/2025,3 - 2 months,Rainy days,Lower,Very often,Yes often,Maybe,3 days,Maybe
+Rural,Shared housing,1,Elderly/Mixed,<1,Full-day cooking,More than three,5kg,12/3/2025,<2 weeks,Rainy days,Slightly higher,Very often,Never,No,5 days,No
+Semi-urban,Apartment,1,Students/Young adults,4,Full-day cooking,Three times,5kg,11/19/2025,>2 months,Cold days,Slightly higher,Very often,Rarely,Yes,5 days,No
+Urban,Shared housing,1,Students/Young adults,>4,Breakfast only,More than three,5kg,11/17/2025,>2 months,No change,Slightly higher,Very often,Yes often,Yes,5 days,Yes
+Urban,Shared housing,2,Elderly/Mixed,<1,Lunch & dinner,Three times,37.5kg,11/30/2025,<2 weeks,Cold days,Much higher,Very often,Never,Yes,1 week,No
+Urban,Shared housing,1,Working adults,4,Home business,Twice,12.5kg,12/13/2025,<2 weeks,Rainy days,Much higher,Never,Sometimes,Yes,3 days,No
+Semi-urban,Single house,2,Students/Young adults,<1,Home business,Three times,37.5kg,11/28/2025,>2 months,No change,Same,Never,Yes often,Yes,3 days,Maybe
+Semi-urban,Apartment,4,Students/Young adults,>4,Full-day cooking,Twice,Not sure,11/21/2025,1-2 months ,No change,Slightly higher,Sometimes,Rarely,Yes,1 week,Maybe
+Urban,Single house,1,Students/Young adults,<1,Full-day cooking,Twice,Not sure,12/15/2025,<2 weeks,Cold days,Same,Sometimes,Yes often,Maybe,1 week,Maybe
+Urban,Single house,4,Elderly/Mixed,>4,Breakfast only,Twice,37.5kg,12/26/2025,>2 months,No change,Much higher,Very often,Never,No,1 week,Yes
+Semi-urban,Single house,5+,Students/Young adults,2,Lunch & dinner,Twice,5kg,11/15/2025,2 - 4 weeks,No change,Slightly higher,Very often,Yes often,No,5 days,No
+Rural,Single house,1,Elderly/Mixed,2,Lunch & dinner,Twice,Not sure,12/23/2025,4 - 2 months,Rainy days,Same,Rarely,Yes often,Maybe,5 days,Maybe
+Semi-urban,Apartment,1,Students/Young adults,<1,Breakfast only,Once,Not sure,12/19/2025,1-2 months ,Cold days,Same,Very often,Rarely,Maybe,3 days,Yes
+Semi-urban,Apartment,4,Working adults,4,Home business,More than three,5kg,1/1/2026,2 - 4 weeks,No change,Slightly higher,Very often,Never,No,5 days,Yes
+Urban,Single house,5+,Working adults,4,Home business,Three times,12.5kg,12/5/2025,2 - 4 weeks,No change,Same,Never,Rarely,Yes,1 week,Maybe
+Urban,Single house,5+,Students/Young adults,2,Lunch & dinner,Twice,5kg,12/9/2025,<2 weeks,No change,Slightly higher,Never,Yes often,Maybe,1 week,Maybe
+Rural,Shared housing,5+,Working adults,>4,Full-day cooking,Once,12.5kg,11/7/2025,2 - 4 weeks,Rainy days,Slightly higher,Very often,Never,Maybe,5 days,No
+Rural,Single house,4,Working adults,4,Water heating,Once,Not sure,11/25/2025,2 - 4 weeks,Rainy days,Lower,Very often,Yes often,No,5 days,No
+Urban,Apartment,5+,Working adults,4,Full-day cooking,Three times,5kg,12/20/2025,5 - 2 months,Cold days,Lower,Rarely,Yes often,No,3 days,Maybe
+Semi-urban,Single house,1,Elderly/Mixed,2,Breakfast only,Once,Not sure,12/10/2025,<2 weeks,Cold days,Lower,Rarely,Never,Maybe,5 days,No
+Rural,Single house,2,Elderly/Mixed,4,Water heating,More than three,5kg,12/30/2025,2 - 4 weeks,Rainy days,Much higher,Rarely,Yes often,Yes,5 days,Maybe
+Urban,Apartment,1,Elderly/Mixed,<1,Full-day cooking,More than three,12.5kg,11/21/2025,1-2 months ,No change,Same,Sometimes,Sometimes,Yes,3 days,Maybe
+Semi-urban,Single house,5+,Working adults,>4,Home business,More than three,5kg,12/25/2025,<2 weeks,Cold days,Same,Rarely,Rarely,No,3 days,Yes
+Urban,Apartment,2,Working adults,4,Breakfast only,Three times,Not sure,11/15/2025,1 - 2 months,Rainy days,Much higher,Rarely,Sometimes,No,1 week,Yes
+Urban,Single house,4,Working adults,2,Lunch & dinner,More than three,5kg,12/17/2025,<2 weeks,No change,Same,Very often,Never,Maybe,3 days,Yes
+Rural,Shared housing,4,Elderly/Mixed,2,Home business,Three times,5kg,1/5/2026,4 - 2 months,Cold days,Slightly higher,Very often,Sometimes,Maybe,1 week,Yes
+Rural,Shared housing,4,Students/Young adults,<1,Lunch & dinner,Three times,12.5kg,11/27/2025,>2 months,Cold days,Slightly higher,Rarely,Yes often,Yes,5 days,Maybe
+Semi-urban,Apartment,5+,Students/Young adults,>4,Home business,Three times,Not sure,11/18/2025,2 - 4 weeks,No change,Much higher,Very often,Yes often,Yes,3 days,Yes
+Semi-urban,Single house,5+,Students/Young adults,2,Breakfast only,More than three,37.5kg,11/7/2025,>2 months,No change,Much higher,Never,Never,Yes,3 days,No
+Urban,Shared housing,4,Working adults,>4,Breakfast only,Twice,12.5kg,11/23/2025,<2 weeks,Rainy days,Slightly higher,Sometimes,Sometimes,Yes,5 days,No
+Semi-urban,Single house,1,Students/Young adults,>4,Breakfast only,More than three,12.5kg,12/11/2025,>2 months,Rainy days,Slightly higher,Sometimes,Sometimes,No,3 days,No
+Urban,Apartment,4,Working adults,2,Lunch & dinner,Three times,5kg,11/11/2025,1-2 months ,No change,Lower,Sometimes,Yes often,Maybe,3 days,Maybe
+Urban,Single house,1,Elderly/Mixed,<1,Breakfast only,Three times,Not sure,12/31/2025,4 - 2 months,Rainy days,Lower,Sometimes,Yes often,Yes,3 days,Maybe
+Urban,Apartment,2,Elderly/Mixed,<1,Water heating,Twice,5kg,1/2/2026,2 - 4 weeks,No change,Lower,Rarely,Never,Yes,3 days,No
+Urban,Shared housing,5+,Students/Young adults,4,Lunch & dinner,Twice,Not sure,12/10/2025,<2 weeks,No change,Much higher,Rarely,Yes often,No,5 days,No
+Urban,Single house,5+,Students/Young adults,>4,Lunch & dinner,More than three,12.5kg,12/7/2025,>2 months,Cold days,Slightly higher,Never,Never,Yes,3 days,No
+Semi-urban,Single house,1,Working adults,>4,Lunch & dinner,Twice,12.5kg,1/1/2026,<2 weeks,No change,Much higher,Sometimes,Sometimes,Yes,5 days,Maybe
+Urban,Shared housing,5+,Working adults,4,Lunch & dinner,Three times,5kg,12/1/2025,<2 weeks,No change,Slightly higher,Very often,Rarely,Yes,3 days,Maybe
+Urban,Single house,5+,Elderly/Mixed,4,Full-day cooking,Three times,5kg,12/13/2025,>2 months,Cold days,Slightly higher,Sometimes,Rarely,Maybe,1 week,Yes
+Semi-urban,Shared housing,4,Elderly/Mixed,2,Full-day cooking,Once,Not sure,11/16/2025,>2 months,Rainy days,Lower,Very often,Never,Yes,5 days,Maybe
+Urban,Single house,2,Elderly/Mixed,>4,Full-day cooking,More than three,12.5kg,11/27/2025,<2 weeks,Rainy days,Same,Never,Yes often,Yes,5 days,Yes
+Semi-urban,Shared housing,5+,Students/Young adults,2,Full-day cooking,More than three,37.5kg,12/11/2025,<2 weeks,No change,Much higher,Sometimes,Never,Maybe,5 days,Yes
+Semi-urban,Shared housing,4,Working adults,>4,Water heating,More than three,37.5kg,12/28/2025,1-2 months ,Rainy days,Same,Rarely,Rarely,Yes,3 days,No
+Rural,Shared housing,5+,Students/Young adults,2,Home business,Twice,12.5kg,11/25/2025,5 - 2 months,Rainy days,Slightly higher,Never,Yes often,Maybe,5 days,No
+Urban,Shared housing,2,Elderly/Mixed,2,Full-day cooking,Twice,Not sure,11/14/2025,>2 months,Rainy days,Lower,Sometimes,Sometimes,Maybe,3 days,Yes
+Semi-urban,Single house,2,Students/Young adults,<1,Lunch & dinner,Three times,37.5kg,11/29/2025,2 - 4 weeks,Cold days,Same,Never,Sometimes,Maybe,5 days,Yes
+Rural,Single house,4,Elderly/Mixed,4,Water heating,Twice,5kg,1/5/2026,1-2 months ,No change,Much higher,Never,Never,No,1 week,Yes
+Urban,Single house,5+,Elderly/Mixed,>4,Breakfast only,Once,5kg,12/27/2025,3 - 2 months,Cold days,Lower,Rarely,Rarely,Yes,3 days,No
+Rural,Apartment,2,Elderly/Mixed,2,Full-day cooking,More than three,37.5kg,1/2/2026,1-2 months ,No change,Slightly higher,Sometimes,Sometimes,Maybe,5 days,Yes
+Urban,Apartment,2,Students/Young adults,2,Lunch & dinner,Three times,Not sure,11/15/2025,<2 weeks,Cold days,Lower,Rarely,Never,Maybe,5 days,Yes
+Rural,Single house,5+,Students/Young adults,4,Breakfast only,More than three,5kg,12/5/2025,<2 weeks,Cold days,Same,Sometimes,Rarely,Maybe,3 days,Maybe
+Semi-urban,Apartment,5+,Working adults,2,Water heating,Twice,37.5kg,11/17/2025,>2 months,No change,Much higher,Sometimes,Rarely,Maybe,1 week,No
+Urban,Shared housing,2,Elderly/Mixed,4,Breakfast only,Three times,37.5kg,12/17/2025,>2 months,Rainy days,Lower,Rarely,Yes often,No,3 days,Yes
+Rural,Apartment,2,Elderly/Mixed,<1,Home business,Twice,Not sure,12/4/2025,2 - 4 weeks,Cold days,Same,Sometimes,Sometimes,No,3 days,Maybe
+Urban,Single house,5+,Working adults,<1,Breakfast only,Three times,37.5kg,12/22/2025,2 - 4 weeks,No change,Same,Never,Never,No,5 days,No
+Semi-urban,Single house,2,Working adults,<1,Home business,Once,12.5kg,11/18/2025,4 - 2 months,Rainy days,Lower,Never,Yes often,No,3 days,Yes
+Rural,Apartment,5+,Working adults,>4,Water heating,Twice,5kg,12/7/2025,2 - 4 weeks,Rainy days,Much higher,Rarely,Sometimes,Yes,5 days,Maybe
+Semi-urban,Apartment,2,Elderly/Mixed,2,Full-day cooking,Twice,5kg,1/5/2026,1-2 months ,Cold days,Same,Never,Sometimes,No,3 days,Maybe
+Semi-urban,Shared housing,5+,Working adults,4,Lunch & dinner,Three times,Not sure,12/7/2025,>2 months,No change,Same,Very often,Yes often,Yes,1 week,Maybe
+Semi-urban,Shared housing,1,Elderly/Mixed,2,Full-day cooking,Three times,Not sure,11/27/2025,<2 weeks,Cold days,Same,Never,Yes often,Maybe,3 days,Yes
+Rural,Shared housing,1,Elderly/Mixed,>4,Full-day cooking,Three times,37.5kg,1/1/2026,<2 weeks,Rainy days,Same,Never,Yes often,Maybe,5 days,Yes
+Rural,Single house,4,Working adults,>4,Full-day cooking,Three times,Not sure,12/3/2025,5 - 2 months,No change,Much higher,Never,Sometimes,Yes,3 days,Maybe
+Semi-urban,Single house,1,Elderly/Mixed,<1,Lunch & dinner,Three times,12.5kg,12/21/2025,2 - 4 weeks,Rainy days,Same,Rarely,Yes often,Maybe,3 days,No
+Urban,Single house,4,Elderly/Mixed,4,Full-day cooking,Three times,37.5kg,12/5/2025,1-2 months ,Cold days,Lower,Sometimes,Rarely,Yes,5 days,Yes
+Rural,Apartment,5+,Elderly/Mixed,>4,Water heating,Twice,12.5kg,12/2/2025,<2 weeks,Cold days,Lower,Never,Yes often,Yes,5 days,Maybe
+Rural,Apartment,4,Elderly/Mixed,>4,Lunch & dinner,Twice,5kg,12/10/2025,2 - 4 weeks,Rainy days,Lower,Very often,Yes often,No,1 week,Maybe
+Semi-urban,Single house,2,Students/Young adults,>4,Full-day cooking,Three times,12.5kg,12/18/2025,2 - 4 weeks,Cold days,Slightly higher,Very often,Rarely,Maybe,3 days,Maybe
+Semi-urban,Shared housing,4,Working adults,4,Water heating,More than three,12.5kg,12/24/2025,6 - 2 months,Cold days,Much higher,Very often,Rarely,Maybe,3 days,No
+Rural,Shared housing,2,Students/Young adults,<1,Full-day cooking,Once,12.5kg,11/17/2025,1-2 months ,Rainy days,Slightly higher,Never,Rarely,No,5 days,No
+Rural,Single house,5+,Elderly/Mixed,4,Full-day cooking,More than three,Not sure,12/27/2025,>2 months,Cold days,Lower,Never,Never,Yes,5 days,Yes
+Urban,Shared housing,5+,Working adults,2,Home business,Once,Not sure,12/29/2025,2 - 4 weeks,Rainy days,Slightly higher,Rarely,Never,Maybe,1 week,Yes
+Semi-urban,Apartment,1,Students/Young adults,2,Lunch & dinner,Three times,12.5kg,11/20/2025,2 - 4 weeks,Cold days,Slightly higher,Very often,Yes often,No,5 days,No
+Urban,Shared housing,2,Working adults,>4,Breakfast only,Once,5kg,11/27/2025,<2 weeks,Cold days,Slightly higher,Never,Sometimes,Maybe,5 days,Yes
+Rural,Apartment,4,Elderly/Mixed,4,Full-day cooking,Once,5kg,11/8/2025,7 - 2 months,Cold days,Same,Sometimes,Never,Maybe,5 days,Maybe
+Urban,Apartment,5+,Students/Young adults,<1,Breakfast only,Three times,5kg,1/5/2026,<2 weeks,No change,Lower,Never,Yes often,Maybe,3 days,Yes
+Semi-urban,Apartment,4,Students/Young adults,>4,Lunch & dinner,More than three,12.5kg,11/23/2025,<2 weeks,Rainy days,Much higher,Very often,Sometimes,Yes,1 week,Yes
+Rural,Single house,4,Elderly/Mixed,2,Lunch & dinner,Once,12.5kg,12/1/2025,2 - 4 weeks,No change,Same,Very often,Rarely,Yes,1 week,Yes
+Rural,Apartment,2,Students/Young adults,>4,Lunch & dinner,Twice,Not sure,11/9/2025,10 - 2 months,Cold days,Lower,Very often,Sometimes,Yes,5 days,Yes
+Semi-urban,Apartment,1,Elderly/Mixed,2,Breakfast only,Three times,12.5kg,11/18/2025,2 - 4 weeks,Rainy days,Much higher,Very often,Yes often,No,5 days,Maybe
+Rural,Single house,1,Working adults,<1,Lunch & dinner,Once,12.5kg,12/16/2025,<2 weeks,Cold days,Same,Rarely,Sometimes,Maybe,1 week,Maybe
+Rural,Shared housing,5+,Working adults,2,Breakfast only,Three times,37.5kg,11/24/2025,2 - 4 weeks,Cold days,Same,Very often,Never,Yes,5 days,Maybe
+Urban,Shared housing,1,Elderly/Mixed,2,Home business,More than three,37.5kg,11/22/2025,>2 months,Cold days,Slightly higher,Rarely,Yes often,Maybe,1 week,Maybe
+Semi-urban,Shared housing,2,Working adults,<1,Water heating,Twice,12.5kg,12/5/2025,2 - 4 weeks,Cold days,Same,Never,Rarely,No,5 days,Yes
+Semi-urban,Single house,2,Students/Young adults,4,Home business,Twice,Not sure,12/29/2025,<2 weeks,Rainy days,Lower,Rarely,Yes often,No,1 week,No
+Urban,Apartment,2,Working adults,<1,Lunch & dinner,Three times,5kg,11/30/2025,2 - 4 weeks,Rainy days,Same,Never,Never,Maybe,3 days,No
+Semi-urban,Apartment,5+,Students/Young adults,4,Breakfast only,Three times,12.5kg,11/27/2025,2 - 4 weeks,No change,Much higher,Rarely,Rarely,No,1 week,Yes
+Rural,Apartment,4,Students/Young adults,<1,Full-day cooking,More than three,5kg,12/23/2025,1-2 months ,Rainy days,Same,Sometimes,Never,Maybe,3 days,Yes
+Semi-urban,Apartment,1,Elderly/Mixed,>4,Full-day cooking,More than three,12.5kg,12/27/2025,3 - 2 months,Rainy days,Much higher,Sometimes,Rarely,No,5 days,Maybe
+Semi-urban,Single house,1,Working adults,<1,Full-day cooking,Twice,37.5kg,11/21/2025,1-2 months ,Cold days,Much higher,Very often,Yes often,No,5 days,Yes
+Semi-urban,Shared housing,4,Working adults,>4,Home business,Twice,Not sure,12/29/2025,2 - 4 weeks,Rainy days,Same,Rarely,Sometimes,Yes,3 days,Yes
+Rural,Apartment,4,Elderly/Mixed,<1,Breakfast only,More than three,Not sure,11/25/2025,<2 weeks,Cold days,Same,Sometimes,Sometimes,No,5 days,Maybe
+Rural,Shared housing,2,Students/Young adults,>4,Water heating,Three times,37.5kg,12/13/2025,<2 weeks,Cold days,Much higher,Rarely,Never,No,1 week,Maybe
+Urban,Shared housing,1,Working adults,>4,Full-day cooking,Once,5kg,11/20/2025,4 - 2 months,No change,Lower,Rarely,Yes often,Yes,3 days,No
+Urban,Single house,2,Students/Young adults,>4,Home business,Once,Not sure,12/9/2025,>2 months,No change,Lower,Never,Yes often,No,3 days,No
+Urban,Shared housing,1,Students/Young adults,2,Home business,Three times,Not sure,11/9/2025,2 - 4 weeks,Rainy days,Lower,Sometimes,Never,No,1 week,Yes
+Rural,Shared housing,5+,Working adults,2,Breakfast only,Three times,5kg,11/21/2025,<2 weeks,No change,Same,Very often,Sometimes,Maybe,1 week,Maybe
+Semi-urban,Apartment,4,Working adults,4,Breakfast only,Twice,37.5kg,11/7/2025,1-2 months ,No change,Lower,Very often,Rarely,Yes,3 days,Maybe
+Rural,Single house,1,Elderly/Mixed,2,Home business,Twice,12.5kg,1/3/2026,2 - 4 weeks,Cold days,Much higher,Never,Rarely,No,1 week,No
+Rural,Apartment,4,Elderly/Mixed,4,Lunch & dinner,Three times,12.5kg,11/14/2025,2 - 4 weeks,Cold days,Much higher,Sometimes,Never,Yes,5 days,Maybe
+Urban,Shared housing,1,Working adults,<1,Breakfast only,Once,Not sure,11/19/2025,2 - 4 weeks,Rainy days,Much higher,Rarely,Yes often,Maybe,5 days,Yes
+Semi-urban,Apartment,4,Students/Young adults,4,Water heating,Three times,5kg,12/4/2025,5 - 2 months,Cold days,Lower,Very often,Never,Yes,3 days,Maybe
+Urban,Apartment,4,Working adults,2,Full-day cooking,More than three,Not sure,12/13/2025,<2 weeks,No change,Same,Sometimes,Sometimes,Yes,1 week,Maybe
+Semi-urban,Apartment,1,Students/Young adults,<1,Full-day cooking,Three times,37.5kg,12/22/2025,1-2 months ,Cold days,Same,Very often,Never,No,3 days,No
+Semi-urban,Apartment,4,Working adults,2,Water heating,Three times,12.5kg,12/29/2025,<2 weeks,Cold days,Much higher,Very often,Rarely,Maybe,5 days,No
+Rural,Shared housing,2,Students/Young adults,4,Lunch & dinner,Twice,37.5kg,11/9/2025,2 - 4 weeks,No change,Much higher,Never,Yes often,Yes,3 days,No
+Rural,Shared housing,2,Elderly/Mixed,<1,Full-day cooking,Once,Not sure,11/18/2025,2 - 4 weeks,Rainy days,Same,Sometimes,Sometimes,No,3 days,No
+Semi-urban,Shared housing,5+,Students/Young adults,4,Breakfast only,More than three,Not sure,1/3/2026,6 - 2 months,Rainy days,Slightly higher,Rarely,Rarely,Maybe,3 days,Yes
+Urban,Shared housing,5+,Working adults,>4,Lunch & dinner,Twice,12.5kg,1/1/2026,1-2 months ,Cold days,Slightly higher,Very often,Yes often,Yes,5 days,No
+Urban,Shared housing,1,Elderly/Mixed,<1,Full-day cooking,Three times,12.5kg,12/7/2025,2 - 4 weeks,No change,Lower,Very often,Never,Yes,5 days,Yes
+Urban,Shared housing,1,Elderly/Mixed,<1,Full-day cooking,Three times,12.5kg,11/23/2025,7 - 2 months,Rainy days,Slightly higher,Sometimes,Rarely,Yes,5 days,Yes
+Rural,Shared housing,1,Working adults,4,Home business,Twice,37.5kg,11/29/2025,2 - 4 weeks,Rainy days,Same,Sometimes,Rarely,Yes,5 days,No
+Urban,Single house,4,Working adults,>4,Water heating,Three times,5kg,12/7/2025,<2 weeks,Rainy days,Slightly higher,Never,Rarely,No,1 week,Yes
+Semi-urban,Apartment,5+,Students/Young adults,>4,Water heating,Once,5kg,12/27/2025,10 - 2 months,Cold days,Much higher,Sometimes,Yes often,Yes,1 week,Maybe
+Semi-urban,Shared housing,5+,Elderly/Mixed,2,Home business,Twice,37.5kg,11/23/2025,2 - 4 weeks,Cold days,Lower,Very often,Rarely,Maybe,5 days,Yes
+Rural,Shared housing,2,Students/Young adults,4,Lunch & dinner,Twice,37.5kg,12/10/2025,<2 weeks,Cold days,Lower,Rarely,Yes often,Maybe,5 days,Yes
+Urban,Shared housing,5+,Working adults,<1,Breakfast only,Three times,5kg,11/11/2025,1-2 months ,Cold days,Slightly higher,Sometimes,Yes often,No,5 days,Maybe
+Rural,Single house,1,Students/Young adults,<1,Lunch & dinner,Three times,5kg,11/26/2025,>2 months,Rainy days,Same,Sometimes,Sometimes,Maybe,3 days,Yes
+Rural,Shared housing,2,Working adults,2,Home business,Once,5kg,11/27/2025,0 - 2 months,No change,Slightly higher,Never,Rarely,Maybe,1 week,No
+Urban,Single house,4,Elderly/Mixed,2,Full-day cooking,More than three,12.5kg,11/8/2025,2 - 4 weeks,No change,Much higher,Rarely,Yes often,No,3 days,Maybe
+Rural,Shared housing,1,Students/Young adults,>4,Lunch & dinner,More than three,37.5kg,12/5/2025,2 - 4 weeks,Rainy days,Lower,Never,Yes often,No,5 days,Maybe
+Semi-urban,Apartment,2,Students/Young adults,>4,Full-day cooking,More than three,37.5kg,12/8/2025,>2 months,Cold days,Same,Never,Sometimes,No,3 days,No
+Rural,Apartment,5+,Working adults,2,Full-day cooking,Three times,37.5kg,1/5/2026,2 - 4 weeks,No change,Much higher,Never,Sometimes,Maybe,5 days,Maybe
+Urban,Apartment,4,Working adults,<1,Home business,More than three,5kg,11/26/2025,>2 months,Cold days,Slightly higher,Sometimes,Never,Maybe,1 week,Maybe
+Urban,Apartment,2,Students/Young adults,4,Home business,Once,Not sure,12/8/2025,>2 months,Cold days,Much higher,Sometimes,Yes often,No,1 week,Maybe
+Rural,Single house,2,Students/Young adults,<1,Home business,Twice,37.5kg,12/28/2025,2 - 2 months,No change,Same,Very often,Rarely,No,1 week,Yes
+Semi-urban,Apartment,2,Students/Young adults,>4,Breakfast only,More than three,12.5kg,12/12/2025,<2 weeks,Cold days,Much higher,Very often,Sometimes,No,3 days,No
+Rural,Single house,2,Students/Young adults,2,Home business,Twice,Not sure,11/28/2025,2 - 4 weeks,Cold days,Same,Rarely,Sometimes,No,1 week,No
+Rural,Apartment,5+,Working adults,4,Breakfast only,Twice,Not sure,11/25/2025,1-2 months ,Cold days,Slightly higher,Never,Yes often,Maybe,3 days,No
+Rural,Single house,1,Elderly/Mixed,>4,Lunch & dinner,Twice,37.5kg,12/17/2025,<2 weeks,Cold days,Same,Rarely,Rarely,No,5 days,No
+Rural,Single house,1,Working adults,<1,Breakfast only,Three times,5kg,12/16/2025,2 - 4 weeks,Rainy days,Lower,Never,Sometimes,No,1 week,Yes
+Urban,Apartment,2,Elderly/Mixed,2,Breakfast only,Once,Not sure,11/23/2025,>2 months,No change,Same,Never,Sometimes,Yes,5 days,No
+Semi-urban,Apartment,1,Students/Young adults,2,Full-day cooking,More than three,12.5kg,12/2/2025,2 - 4 weeks,Cold days,Same,Very often,Sometimes,No,5 days,Yes
+Rural,Apartment,2,Elderly/Mixed,>4,Water heating,Twice,12.5kg,11/24/2025,>2 months,No change,Lower,Rarely,Rarely,Yes,3 days,Maybe
+Semi-urban,Apartment,5+,Elderly/Mixed,<1,Lunch & dinner,Once,5kg,12/27/2025,<2 weeks,No change,Much higher,Very often,Yes often,Maybe,1 week,Maybe
+Semi-urban,Shared housing,2,Elderly/Mixed,<1,Lunch & dinner,More than three,Not sure,12/7/2025,2 - 4 weeks,Rainy days,Much higher,Very often,Never,No,1 week,No
+Urban,Shared housing,2,Working adults,>4,Breakfast only,Once,Not sure,12/30/2025,2 - 4 weeks,No change,Slightly higher,Never,Yes often,Yes,3 days,Yes
+Semi-urban,Single house,5+,Working adults,<1,Home business,Three times,Not sure,12/18/2025,>2 months,No change,Much higher,Very often,Yes often,Maybe,1 week,Yes
+Semi-urban,Apartment,4,Elderly/Mixed,4,Water heating,Twice,5kg,12/9/2025,4 - 2 months,Cold days,Lower,Rarely,Never,No,3 days,Maybe
+Rural,Shared housing,5+,Elderly/Mixed,<1,Lunch & dinner,More than three,5kg,12/5/2025,>2 months,Cold days,Slightly higher,Rarely,Yes often,No,1 week,No
+Rural,Apartment,1,Students/Young adults,4,Breakfast only,Once,37.5kg,12/3/2025,<2 weeks,Cold days,Much higher,Never,Rarely,No,5 days,Maybe
+Semi-urban,Single house,2,Students/Young adults,2,Home business,Three times,Not sure,11/22/2025,>2 months,No change,Much higher,Very often,Sometimes,Maybe,5 days,Maybe
+Semi-urban,Shared housing,5+,Students/Young adults,>4,Breakfast only,More than three,5kg,11/11/2025,2 - 4 weeks,Rainy days,Lower,Very often,Rarely,No,5 days,Maybe
+Rural,Shared housing,1,Students/Young adults,4,Full-day cooking,More than three,37.5kg,11/17/2025,2 - 4 weeks,No change,Same,Never,Rarely,Maybe,1 week,Maybe
+Urban,Shared housing,2,Elderly/Mixed,>4,Full-day cooking,Three times,12.5kg,11/28/2025,>2 months,Rainy days,Slightly higher,Rarely,Rarely,Yes,1 week,Maybe
+Semi-urban,Single house,1,Elderly/Mixed,>4,Full-day cooking,Twice,12.5kg,12/27/2025,>2 months,Cold days,Slightly higher,Sometimes,Rarely,Yes,3 days,Maybe
+Semi-urban,Shared housing,2,Students/Young adults,2,Water heating,More than three,5kg,1/3/2026,2 - 4 weeks,No change,Lower,Very often,Never,No,5 days,Maybe
+Rural,Apartment,5+,Elderly/Mixed,>4,Home business,Once,Not sure,12/12/2025,>2 months,Cold days,Much higher,Sometimes,Sometimes,Yes,1 week,Maybe
+Semi-urban,Shared housing,2,Students/Young adults,2,Breakfast only,Three times,5kg,12/17/2025,>2 months,No change,Same,Sometimes,Sometimes,Maybe,3 days,Yes
+Semi-urban,Apartment,4,Working adults,4,Water heating,Once,37.5kg,12/5/2025,<2 weeks,Cold days,Lower,Rarely,Rarely,No,1 week,Yes
+Semi-urban,Shared housing,5+,Elderly/Mixed,4,Water heating,Twice,5kg,12/23/2025,2 - 4 weeks,Rainy days,Lower,Never,Yes often,Maybe,3 days,No
+Urban,Shared housing,4,Students/Young adults,2,Water heating,More than three,5kg,11/10/2025,2 - 4 weeks,Rainy days,Same,Never,Sometimes,Yes,1 week,Yes
+Semi-urban,Single house,4,Elderly/Mixed,2,Lunch & dinner,Once,37.5kg,12/2/2025,1-2 months ,Cold days,Much higher,Sometimes,Yes often,No,3 days,Yes
+Urban,Shared housing,2,Elderly/Mixed,4,Full-day cooking,Once,12.5kg,11/24/2025,5 - 2 months,Cold days,Much higher,Very often,Rarely,No,3 days,No
+Semi-urban,Apartment,1,Students/Young adults,>4,Breakfast only,Twice,Not sure,11/21/2025,>2 months,Rainy days,Slightly higher,Never,Sometimes,Maybe,5 days,Yes
+Urban,Single house,1,Working adults,<1,Full-day cooking,Twice,37.5kg,12/31/2025,1-2 months ,Cold days,Same,Never,Sometimes,No,3 days,No
+Urban,Single house,5+,Students/Young adults,4,Water heating,Once,12.5kg,12/1/2025,2 - 4 weeks,Cold days,Lower,Never,Never,Maybe,3 days,No
+Semi-urban,Apartment,2,Students/Young adults,<1,Water heating,Twice,5kg,12/25/2025,6 - 2 months,Cold days,Lower,Never,Never,Maybe,5 days,Maybe
+Semi-urban,Shared housing,1,Elderly/Mixed,>4,Water heating,Three times,37.5kg,12/22/2025,2 - 4 weeks,No change,Same,Sometimes,Never,Maybe,3 days,Yes
+Urban,Single house,4,Working adults,4,Breakfast only,Once,37.5kg,11/12/2025,2 - 4 weeks,No change,Lower,Very often,Rarely,Yes,5 days,Maybe
+Semi-urban,Apartment,5+,Students/Young adults,<1,Full-day cooking,Twice,37.5kg,1/5/2026,1-2 months ,No change,Slightly higher,Never,Sometimes,No,3 days,Yes
+Semi-urban,Single house,5+,Students/Young adults,4,Home business,Once,12.5kg,12/23/2025,<2 weeks,No change,Much higher,Never,Rarely,Maybe,5 days,No
+Urban,Apartment,1,Working adults,<1,Breakfast only,Once,5kg,12/13/2025,2 - 4 weeks,Cold days,Much higher,Rarely,Yes often,Maybe,1 week,Maybe
+Semi-urban,Single house,5+,Students/Young adults,<1,Home business,Twice,12.5kg,12/6/2025,<2 weeks,No change,Same,Never,Sometimes,Maybe,1 week,No
+Urban,Shared housing,1,Students/Young adults,<1,Water heating,Once,Not sure,11/29/2025,7 - 2 months,Rainy days,Much higher,Rarely,Never,Maybe,5 days,Maybe
+Urban,Apartment,1,Working adults,>4,Home business,Three times,12.5kg,1/3/2026,>2 months,No change,Much higher,Very often,Yes often,No,3 days,Maybe
+Urban,Shared housing,4,Elderly/Mixed,>4,Full-day cooking,Twice,12.5kg,12/10/2025,>2 months,Cold days,Much higher,Very often,Rarely,Maybe,5 days,No
+Urban,Single house,4,Students/Young adults,2,Lunch & dinner,Twice,Not sure,11/15/2025,10 - 2 months,Cold days,Slightly higher,Rarely,Rarely,Maybe,1 week,Maybe
+Urban,Apartment,1,Students/Young adults,2,Water heating,Three times,12.5kg,1/4/2026,2 - 4 weeks,No change,Lower,Sometimes,Rarely,Yes,1 week,Yes
+Rural,Apartment,1,Students/Young adults,<1,Home business,Twice,12.5kg,12/21/2025,>2 months,No change,Same,Very often,Never,Yes,3 days,No
+Urban,Single house,5+,Students/Young adults,>4,Breakfast only,More than three,Not sure,11/7/2025,>2 months,Cold days,Much higher,Never,Yes often,Maybe,3 days,Maybe
+Semi-urban,Apartment,2,Elderly/Mixed,>4,Full-day cooking,Three times,Not sure,12/16/2025,>2 months,Rainy days,Much higher,Rarely,Yes often,Maybe,5 days,Maybe
+Urban,Single house,2,Students/Young adults,4,Lunch & dinner,Three times,5kg,11/21/2025,1-2 months ,Cold days,Same,Rarely,Never,Maybe,3 days,Yes
+Semi-urban,Shared housing,2,Working adults,2,Water heating,Once,5kg,12/29/2025,2 - 4 weeks,Cold days,Same,Rarely,Sometimes,Maybe,5 days,Yes
+Urban,Apartment,4,Working adults,<1,Water heating,Three times,37.5kg,11/26/2025,<2 weeks,No change,Same,Never,Never,No,3 days,No
+Rural,Shared housing,2,Students/Young adults,2,Breakfast only,Once,12.5kg,12/10/2025,<2 weeks,Cold days,Lower,Very often,Sometimes,No,3 days,Maybe

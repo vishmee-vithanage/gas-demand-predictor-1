@@ -1,0 +1,57 @@
+Station_Type,Daily_Cylinder_Sales,Stock_Monitoring,Stockouts_Frequency,Overstocking_Frequency,Demand_Peaks,Bulk_Orders_Impact,Pre_Booking,Booking_Used_For_Planning,Reorder_Method,Supplier_Lead_Time,Trust_AI_Refill,Voice_Interface_Usefulness,Biggest_Challenge,Expected_Benefit
+Urban,300+,Fixed threshold alerts,Daily,Very often,Festivals/Holidays,Rarely,No,No,Experience-based,10+,Maybe,Very useful,Overstocking,Reduced stock-outs
+Semi-urban,100-300,Manual checking,Weekly,Very often,No clear pattern,Rarely,Yes (digital),No,Fixed schedule,10- ,No,Not useful,Stock-outs,Cost optimization
+Urban,100-300,No formal method,Weekly,Sometimes,Seasonal weather,Rarely,Yes (digital),No,Automated system,2-,Maybe,Very useful,Supplier delays,All of the above
+Semi-urban,50-100,Digital system,Daily,Sometimes,No clear pattern,Sometimes,No,No,Automated system,10- ,Yes,Somewhat useful,Supplier delays,Reduced stock-outs
+Urban,<50,Manual checking,Monthly,Sometimes,Weekends,Very frequently,Yes (manual),Yes,Experience-based,2-,Yes,Very useful,Manual workload,Better customer satisfaction
+Rural,300+,No formal method,Monthly,Sometimes,Seasonal weather,Very frequently,Yes (digital),Yes,Experience-based,10+,No,Very useful,Overstocking,All of the above
+Rural,<50,Digital system,Rarely,Very often,No clear pattern,Rarely,Yes (digital),Yes,Emergency refill,5-,No,Very useful,Stock-outs,Better customer satisfaction
+Semi-urban,300+,Fixed threshold alerts,Rarely,Very often,No clear pattern,Rarely,Yes (manual),Yes,Automated system,2-,Yes,Not useful,Overstocking,All of the above
+Urban,50-100,No formal method,Daily,Never,Festivals/Holidays,Very frequently,Yes (digital),Yes,Fixed schedule,10- ,Maybe,Very useful,Manual workload,All of the above
+Urban,100-300,Digital system,Weekly,Very often,Seasonal weather,Very frequently,Yes (digital),No,Fixed schedule,2-,Yes,Not useful,Manual workload,All of the above
+Semi-urban,100-300,No formal method,Daily,Rarely,Seasonal weather,Sometimes,Yes (manual),Yes,Fixed schedule,2-,Yes,Very useful,Overstocking,Cost optimization
+Urban,100-300,Fixed threshold alerts,Daily,Never,Seasonal weather,Sometimes,No,Yes,Experience-based,2-,No,Very useful,Overstocking,Cost optimization
+Rural,300+,No formal method,Daily,Sometimes,Festivals/Holidays,Sometimes,Yes (digital),No,Fixed schedule,5-,Yes,Somewhat useful,Overstocking,Cost optimization
+Semi-urban,300+,Fixed threshold alerts,Daily,Very often,Seasonal weather,Very frequently,Yes (manual),Yes,Emergency refill,5-,Maybe,Not useful,Overstocking,Reduced stock-outs
+Rural,<50,Fixed threshold alerts,Weekly,Sometimes,Weekends,Rarely,Yes (manual),No,Experience-based,10+,Yes,Not useful,Supplier delays,Reduced stock-outs
+Rural,50-100,No formal method,Weekly,Sometimes,Weekends,Rarely,No,Yes,Experience-based,10- ,Maybe,Very useful,Manual workload,All of the above
+Rural,300+,No formal method,Daily,Never,Seasonal weather,Very frequently,No,No,Experience-based,10+,Yes,Somewhat useful,Manual workload,Reduced stock-outs
+Semi-urban,50-100,Manual checking,Weekly,Sometimes,Seasonal weather,Very frequently,Yes (manual),No,Automated system,10- ,Yes,Very useful,Overstocking,All of the above
+Rural,50-100,Manual checking,Rarely,Rarely,No clear pattern,Never,Yes (manual),Yes,Emergency refill,10+,No,Not useful,Stock-outs,All of the above
+Urban,300+,Manual checking,Monthly,Never,Weekends,Very frequently,Yes (manual),Yes,Experience-based,2-,No,Not useful,Overstocking,All of the above
+Rural,100-300,No formal method,Rarely,Very often,Seasonal weather,Rarely,Yes (manual),Yes,Experience-based,5-,Maybe,Not useful,Overstocking,All of the above
+Semi-urban,<50,Manual checking,Rarely,Sometimes,Festivals/Holidays,Sometimes,No,No,Emergency refill,2-,Yes,Somewhat useful,Supplier delays,All of the above
+Rural,300+,Fixed threshold alerts,Weekly,Rarely,No clear pattern,Never,No,No,Experience-based,5-,Maybe,Not useful,Overstocking,All of the above
+Semi-urban,100-300,Fixed threshold alerts,Daily,Rarely,Weekends,Never,Yes (manual),Yes,Automated system,5-,No,Not useful,Overstocking,Cost optimization
+Semi-urban,50-100,Digital system,Weekly,Rarely,No clear pattern,Rarely,No,Yes,Fixed schedule,2-,Yes,Somewhat useful,Manual workload,Cost optimization
+Semi-urban,100-300,Manual checking,Daily,Very often,No clear pattern,Very frequently,Yes (digital),No,Emergency refill,5-,No,Not useful,Overstocking,Reduced stock-outs
+Semi-urban,50-100,Manual checking,Rarely,Sometimes,Festivals/Holidays,Very frequently,No,Yes,Fixed schedule,5-,No,Somewhat useful,Stock-outs,Reduced stock-outs
+Urban,100-300,Digital system,Monthly,Never,No clear pattern,Rarely,Yes (manual),Yes,Automated system,10- ,No,Not useful,Supplier delays,Better customer satisfaction
+Semi-urban,300+,Digital system,Monthly,Rarely,Weekends,Very frequently,Yes (digital),Yes,Fixed schedule,10+,Maybe,Very useful,Overstocking,Better customer satisfaction
+Urban,300+,Digital system,Monthly,Very often,Seasonal weather,Never,Yes (digital),No,Automated system,10- ,Yes,Very useful,Manual workload,Reduced stock-outs
+Semi-urban,<50,No formal method,Monthly,Sometimes,Seasonal weather,Very frequently,No,No,Emergency refill,5-,Maybe,Very useful,Overstocking,All of the above
+Semi-urban,300+,No formal method,Daily,Very often,Seasonal weather,Rarely,No,Yes,Experience-based,10+,Yes,Very useful,Manual workload,All of the above
+Semi-urban,300+,Digital system,Weekly,Rarely,Seasonal weather,Never,No,No,Experience-based,2-,Maybe,Not useful,Stock-outs,Better customer satisfaction
+Rural,300+,Fixed threshold alerts,Monthly,Very often,Festivals/Holidays,Rarely,Yes (manual),No,Emergency refill,10- ,Yes,Very useful,Stock-outs,Better customer satisfaction
+Semi-urban,50-100,Fixed threshold alerts,Daily,Rarely,Seasonal weather,Sometimes,Yes (manual),No,Emergency refill,5-,Maybe,Very useful,Supplier delays,Cost optimization
+Rural,50-100,No formal method,Daily,Sometimes,No clear pattern,Never,Yes (manual),No,Experience-based,10+,No,Somewhat useful,Stock-outs,All of the above
+Semi-urban,300+,Digital system,Monthly,Very often,Weekends,Sometimes,Yes (manual),No,Fixed schedule,5-,No,Not useful,Overstocking,Reduced stock-outs
+Semi-urban,300+,No formal method,Weekly,Sometimes,Festivals/Holidays,Very frequently,Yes (digital),Yes,Fixed schedule,10+,Maybe,Somewhat useful,Overstocking,Reduced stock-outs
+Semi-urban,100-300,Manual checking,Rarely,Sometimes,No clear pattern,Rarely,Yes (manual),Yes,Emergency refill,10+,No,Somewhat useful,Manual workload,Reduced stock-outs
+Urban,50-100,No formal method,Daily,Never,Weekends,Never,Yes (digital),No,Fixed schedule,10- ,Yes,Not useful,Manual workload,Reduced stock-outs
+Urban,300+,Fixed threshold alerts,Monthly,Rarely,Festivals/Holidays,Rarely,Yes (manual),Yes,Emergency refill,5-,Maybe,Not useful,Manual workload,All of the above
+Urban,<50,Manual checking,Rarely,Sometimes,No clear pattern,Never,No,No,Emergency refill,5-,Yes,Very useful,Stock-outs,Better customer satisfaction
+Semi-urban,100-300,Digital system,Rarely,Never,Weekends,Very frequently,Yes (manual),No,Fixed schedule,10+,Maybe,Somewhat useful,Supplier delays,All of the above
+Semi-urban,50-100,No formal method,Rarely,Very often,Festivals/Holidays,Very frequently,Yes (digital),Yes,Experience-based,10+,Yes,Not useful,Manual workload,Reduced stock-outs
+Semi-urban,50-100,No formal method,Daily,Rarely,No clear pattern,Very frequently,Yes (manual),No,Emergency refill,2-,Yes,Not useful,Overstocking,Better customer satisfaction
+Semi-urban,<50,No formal method,Weekly,Rarely,Festivals/Holidays,Sometimes,No,Yes,Fixed schedule,5-,No,Somewhat useful,Supplier delays,All of the above
+Rural,<50,No formal method,Daily,Very often,No clear pattern,Very frequently,Yes (digital),No,Emergency refill,10+,No,Very useful,Supplier delays,Better customer satisfaction
+Semi-urban,<50,Fixed threshold alerts,Monthly,Never,Weekends,Rarely,Yes (digital),Yes,Emergency refill,10+,No,Somewhat useful,Overstocking,Reduced stock-outs
+Urban,50-100,Fixed threshold alerts,Daily,Sometimes,Seasonal weather,Very frequently,No,Yes,Fixed schedule,5-,Maybe,Very useful,Manual workload,Better customer satisfaction
+Semi-urban,100-300,Manual checking,Daily,Sometimes,Seasonal weather,Sometimes,Yes (manual),No,Emergency refill,5-,Maybe,Somewhat useful,Manual workload,Reduced stock-outs
+Rural,300+,Manual checking,Monthly,Never,Weekends,Rarely,Yes (digital),No,Emergency refill,2-,No,Not useful,Supplier delays,All of the above
+Urban,<50,Fixed threshold alerts,Monthly,Never,No clear pattern,Sometimes,Yes (manual),Yes,Fixed schedule,2-,No,Very useful,Manual workload,All of the above
+Urban,300+,Fixed threshold alerts,Weekly,Never,No clear pattern,Rarely,No,No,Emergency refill,10+,Maybe,Very useful,Overstocking,Better customer satisfaction
+Semi-urban,50-100,Digital system,Daily,Rarely,No clear pattern,Very frequently,No,No,Automated system,10+,Maybe,Somewhat useful,Overstocking,Cost optimization
+Semi-urban,<50,Manual checking,Daily,Very often,Festivals/Holidays,Never,Yes (manual),No,Experience-based,2-,No,Very useful,Supplier delays,Cost optimization
+Rural,300+,No formal method,Daily,Rarely,Seasonal weather,Rarely,Yes (digital),Yes,Emergency refill,5-,Yes,Somewhat useful,Overstocking,Cost optimization
